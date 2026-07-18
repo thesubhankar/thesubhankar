@@ -269,7 +269,7 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
   <a href=https://www.kaggle.com/subhankargiri target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" />
   </a>
-  <a href="https://leetcode.com/thesubhankar" target="_blank">
+  <a href=https://leetcode.com/u/subhaknar/ target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
   </a>
   <a href="https://www.hackerrank.com/thesubhankar" target="_blank">
