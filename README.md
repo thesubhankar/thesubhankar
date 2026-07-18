@@ -340,8 +340,8 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
 ### 📬 Get in Touch
 
 <p align="center">
-  <a href="mailto:subhankargiri92006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-subhankargiri92006--gmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Badge"/>
+  <a href="mailto:thesubhankar.giri992@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-thesubhankar.giri992--gmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/subhankar-giri-2a4b0a295" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Subhankar_Giri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
