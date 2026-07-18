@@ -266,7 +266,7 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
 ### 🏆 Coding Achievements
 
 <p align="center">
-  <a href="https://www.kaggle.com/thesubhankar" target="_blank">
+  <a href=https://www.kaggle.com/subhankargiri target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" />
   </a>
   <a href="https://leetcode.com/thesubhankar" target="_blank">
