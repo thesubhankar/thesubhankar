@@ -302,7 +302,7 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
 
 <p align="center">
   <a href="https://github.com/thesubhankar">
-    <img src="https://github-profile-trophy.vercel.app/?username=thesubhankar&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Subhankar's GitHub Trophies" />
+    <img src="https://gh-trophy.cdnsoft.net/?username=thesubhankar&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Subhankar's GitHub Trophies" />
   </a>
 </p>
 
