@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="banner.svg" alt="Subhankar Giri - Animated Landscape Banner" width="100%" />
+<img src="./banner.svg" alt="Subhankar Giri - Animated Landscape Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -266,10 +266,10 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
 ### 🏆 Coding Achievements
 
 <p align="center">
-  <a href=https://www.kaggle.com/subhankargiri target="_blank">
+  <a href="https://www.kaggle.com/thesubhankar" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" />
   </a>
-  <a href=https://leetcode.com/u/subhaknar/ target="_blank">
+  <a href="https://leetcode.com/thesubhankar" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
   </a>
   <a href="https://www.hackerrank.com/thesubhankar" target="_blank">
@@ -323,7 +323,7 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
 
 <p align="center">
   <a href="https://github.com/thesubhankar">
-    <img src="https://streak-stats.demolab.com/?user=thesubhankar&theme=tokyonight&border_radius=8" alt="Subhankar's Streak Stats" width="97%" />
+    <img src="https://streak-stats.demolab.com?user=thesubhankar&theme=tokyonight" alt="Subhankar's Streak Stats" width="100%" />
   </a>
 </p>
 
@@ -356,4 +356,8 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
 
 <p align="center">
   <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
+</p>
+
+<p align="center">
+<img src="./footer_banner.svg" alt="Thanks for visiting - Animated Landscape Banner" width="100%" />
 </p>
