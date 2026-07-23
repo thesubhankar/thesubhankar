@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/the_subhankar.x?igsh=MTI0c3NqYjJidjRhYw==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-BapunRex-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-the__subhankar.x-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.facebook.com/share/198KkgisKY/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
@@ -269,7 +269,7 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
   <a href="https://www.kaggle.com/thesubhankar" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" />
   </a>
-  <a href="https://leetcode.com/u/subhaknar/" target="_blank">
+  <a href="https://leetcode.com/thesubhankar" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
   </a>
   <a href="https://www.hackerrank.com/thesubhankar" target="_blank">
