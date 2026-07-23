@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/the_bapunrex?igsh=MTI0c3NqYjJidjRhYw==" target="_blank">
+  <a href="https://www.instagram.com/the_subhankar.x?igsh=MTI0c3NqYjJidjRhYw==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-BapunRex-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.facebook.com/share/198KkgisKY/" target="_blank">
