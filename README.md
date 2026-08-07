@@ -308,10 +308,10 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
 
 <p align="center">
   <a href="https://github.com/thesubhankar">
-    <img src="https://github-stats-extended.vercel.app/api?username=thesubhankar&show_icons=true&theme=tokyonight&border_radius=8&include_all_commits=true&count_private=true" alt="Subhankar's GitHub Stats" height="215" />
+    <img src="https://github-stats-extended.vercel.app/api?username=thesubhankar&show_icons=true&theme=tokyonight&border_radius=8&include_all_commits=true&count_private=true" alt="Subhankar's GitHub Stats" height="185" />
   </a>
   <a href="https://github.com/thesubhankar">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=thesubhankar&layout=donut&theme=tokyonight&border_radius=8&langs_count=8" alt="Subhankar's Top Languages" height="215" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=thesubhankar&layout=compact&theme=tokyonight&border_radius=8&card_width=467&langs_count=8" alt="Subhankar's Top Languages" height="185" />
   </a>
 </p>
 
