@@ -298,7 +298,7 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Overview
 
 <p align="center">
   <a href="https://github.com/thesubhankar">
@@ -306,14 +306,20 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/thesubhankar">
-    <img src="https://github-stats-extended.vercel.app/api?username=thesubhankar&show_icons=true&theme=tokyonight&border_radius=16&include_all_commits=true&count_private=true&card_width=495" alt="Subhankar's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/thesubhankar">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=thesubhankar&layout=compact&theme=tokyonight&border_radius=16&card_width=495&langs_count=8" alt="Subhankar's Top Languages" width="48%" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/thesubhankar">
+        <img src="https://github-stats-extended.vercel.app/api?username=thesubhankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Stats" alt="Subhankar's GitHub Stats" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/thesubhankar">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=thesubhankar&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&custom_title=Top%20Languages%20by%20Repo" alt="Top Languages by Repo" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/thesubhankar">
