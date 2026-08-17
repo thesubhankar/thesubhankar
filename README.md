@@ -272,7 +272,7 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
   <a href="https://leetcode.com/u/subhaknar/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
   </a>
-  <a href="https://www.hackerrank.com/thesubhankar" target="_blank">
+  <a href="https://www.hackerrank.com/profile/thesubhankarx" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-SQL_5_Stars-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Badge" />
   </a>
   <a href="https://colab.research.google.com/" target="_blank">
