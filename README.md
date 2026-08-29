@@ -341,7 +341,7 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
 
 ---
 
-### 🐍 Contribution Grid Snake (Neon 3D Style)
+### 🐍 Contribution Grid Snake 
 
 <p align="center">
   <picture>
