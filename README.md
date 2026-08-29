@@ -341,14 +341,18 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
 
 ---
 
-### 🐍 Contribution Grid Snake 
+### 🐍 Contribution Grid Snake (Neon 3D Style)
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thesubhankar/thesubhankar/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thesubhankar/thesubhankar/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Grid Snake - Neon 3D Style" src="https://raw.githubusercontent.com/thesubhankar/thesubhankar/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://img.shields.io/badge/🐍_Snake_Head-%2339ff14-39ff14?style=flat-square&logoColor=black" alt="Neon Green Snake"/>
+  <img src="https://img.shields.io/badge/⬛_0_Commits_(Matrix_Tile)-%23161b22-161b22?style=flat-square&logoColor=white" alt="0 Commits"/>
+  <img src="https://img.shields.io/badge/🩵_Low_Contributions-%2300f0ff-00f0ff?style=flat-square&logoColor=black" alt="Low Contributions"/>
+  <img src="https://img.shields.io/badge/💜_Medium_Contributions-%239d4edd-9d4edd?style=flat-square&logoColor=white" alt="Medium Contributions"/>
+  <img src="https://img.shields.io/badge/🩷_High_Contributions-%23ff007f-ff007f?style=flat-square&logoColor=white" alt="High Contributions"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thesubhankar/thesubhankar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake - Neon 3D Style" width="100%" />
 </p>
 
 ---
