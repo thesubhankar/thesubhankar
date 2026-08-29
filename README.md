@@ -341,14 +341,15 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
 
 ---
 
-### 🐍 Contribution Grid Snake (Neon 3D Style)
+### 🐍 Contribution Grid Snake (Multi-Color Neon 3D Style)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🐍_Snake_Head-%2339ff14-39ff14?style=flat-square&logoColor=black" alt="Neon Green Snake"/>
+  <img src="https://img.shields.io/badge/🐍_Color--Changing_Snake-%23ff007f-ff007f?style=flat-square&logoColor=white" alt="Color Changing Snake Eater"/>
   <img src="https://img.shields.io/badge/⬛_0_Commits_(Matrix_Tile)-%23161b22-161b22?style=flat-square&logoColor=white" alt="0 Commits"/>
-  <img src="https://img.shields.io/badge/🩵_Low_Contributions-%2300f0ff-00f0ff?style=flat-square&logoColor=black" alt="Low Contributions"/>
-  <img src="https://img.shields.io/badge/💜_Medium_Contributions-%239d4edd-9d4edd?style=flat-square&logoColor=white" alt="Medium Contributions"/>
-  <img src="https://img.shields.io/badge/🩷_High_Contributions-%23ff007f-ff007f?style=flat-square&logoColor=white" alt="High Contributions"/>
+  <img src="https://img.shields.io/badge/🟦_Low_Contributions-%230077b5-0077b5?style=flat-square&logoColor=white" alt="Low Contributions"/>
+  <img src="https://img.shields.io/badge/🩵_Moderate_Contributions-%2300f0ff-00f0ff?style=flat-square&logoColor=black" alt="Moderate Contributions"/>
+  <img src="https://img.shields.io/badge/💜_High_Contributions-%239d4edd-9d4edd?style=flat-square&logoColor=white" alt="High Contributions"/>
+  <img src="https://img.shields.io/badge/🩷_Peak_Contributions-%23ff007f-ff007f?style=flat-square&logoColor=white" alt="Peak Contributions"/>
 </p>
 
 <p align="center">
