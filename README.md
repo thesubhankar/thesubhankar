@@ -341,10 +341,14 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
 
 ---
 
-### 🐍 Contribution Grid Snake
+### 🐍 Contribution Grid Snake (Neon 3D Style)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thesubhankar/thesubhankar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thesubhankar/thesubhankar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thesubhankar/thesubhankar/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake - Neon 3D Style" src="https://raw.githubusercontent.com/thesubhankar/thesubhankar/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 ---
