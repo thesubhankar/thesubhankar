@@ -1,20 +1,20 @@
-# 💫 About Me
+# <p align="center">⚡ Subhankar Giri | Data Science & AI/ML ⚡</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thesubhankar&color=06b6d4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=thesubhankar&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
-<img src="./banner.svg" alt="Subhankar Giri - Animated Landscape Banner" width="100%" />
+  <img src="./banner.svg" alt="Subhankar Giri - Animated Neon Landscape Banner" width="100%" />
 </p>
 
 <p align="center">
-  <b>Data Science | Data Analytics | Machine Learning | Python | SQL | Power BI</b>
+  <b style="color: #00f0ff;">✨ Data Science | Data Analytics | Machine Learning | Python | SQL | Power BI ✨</b>
 </p>
 
 <p align="center">
   <a href="https://thesubhankar.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/subhankar-giri-2a4b0a295" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,94 +22,100 @@
   <a href="https://x.com/subhankar_92006" target="_blank">
     <img src="https://img.shields.io/badge/Twitter/X-Subhankar-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.instagram.com/the_subhankar.x?igsh=MTI0c3NqYjJidjRhYw==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-the__subhankar.x-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-the__subhankar.x-ff007f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.facebook.com/share/198KkgisKY/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://github.com/thesubhankar?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/thesubhankar?label=FOLLOWERS&style=for-the-badge&color=06b6d4&logo=github&logoColor=white" alt="Followers Badge" />
+    <img src="https://img.shields.io/github/followers/thesubhankar?label=FOLLOWERS&style=for-the-badge&color=9d4edd&logo=github&logoColor=white" alt="Followers Badge" />
   </a>
 </p>
 
 ---
 
-### 🚀 Introduction
+### 🚀 About Me & Introduction
 
-A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML systems**. Currently pursuing my B.Tech in Computer Science & Engineering, I focus on turning complex datasets into clear, actionable stories. I love writing clean code, building data pipelines, and training machine learning algorithms.
+A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems** & Data Engineering. Currently pursuing my B.Tech in Computer Science & Engineering, I specialize in transforming raw, unstructured datasets into predictive models and actionable business insights.
 
 - 🎓 **Education**: B.Tech in Computer Science & Engineering *(In Progress)*
 - 💼 **Experience**: Data Science Intern
-- 🔭 **Focus**: Advanced Predictive Analytics, Machine Learning Model Optimization, Business Intelligence Dashboards
+- 🔭 **Focus Areas**: Advanced Predictive Analytics, Machine Learning Optimization, BI Dashboarding
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Learning & Exploring
 
 - 🧠 **Deep Learning**: Neural Networks, CNNs, LSTMs, Transformers
-- 🗣️ **Natural Language Processing (NLP)**: Text Representation, LLM Finetuning
+- 🗣️ **Natural Language Processing (NLP)**: Text Embeddings, LLM Finetuning
 - ⚡ **Generative AI**: GANs, Diffusion Models, Prompt Engineering
-- 🚀 **Apache Spark**: Distributed Analytics, Large-Scale Data Pipelines
+- 🚀 **Apache Spark**: Distributed Big Data Analytics & Pipelines
 
 ---
 
-### 🛠️ My Toolkit
+### 🛠️ My Tech Stack & Toolkit
 
 <table align="center">
   <tr>
     <td align="center" width="50%" valign="top">
-      <b>Languages & Databases</b>
+      <b style="color: #00f0ff;">⚡ Languages & Databases ⚡</b>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sqlite&logoColor=white" alt="SQL"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
     </td>
     <td align="center" width="50%" valign="top">
-      <b>Data Science & AI/ML</b>
+      <b style="color: #ff007f;">🤖 Data Science & AI/ML 🤖</b>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/Scikit_Learn-F15A24?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/XGBoost-FF8A00?style=flat&logo=xgboost&logoColor=white" alt="XGBoost"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
+      <img src="https://img.shields.io/badge/Scikit_Learn-F15A24?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/XGBoost-FF8A00?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
-      <b>Visualization & Analytics</b>
+      <b style="color: #9d4edd;">📊 Visualization & Analytics 📊</b>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
-      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau"/>
-      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
     </td>
     <td align="center" width="50%" valign="top">
-      <b>Tools & Environments</b>
+      <b style="color: #39ff14;">🛠️ Tools & Environments 🛠️</b>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Highlighted Projects
+### 💻 Highlighted Projects
 
-*Here are some key projects that represent my work. You can view interactive demos for these on my [portfolio website](https://thesubhankar.netlify.app).*
+<p align="center">
+  <a href="https://thesubhankar.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_Live_Portfolio-thesubhankar.netlify.app-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio Logo Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Explore featured projects below. Interactive live demos are available on my portfolio website!</i>
+</p>
 
 <details>
   <summary><b>🏠 Housing Analytics & Valuation (AI & Machine Learning)</b></summary>
@@ -122,11 +128,11 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
     <img src="https://img.shields.io/badge/Scikit_Learn-F15A24?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
     <img src="https://img.shields.io/badge/XGBoost-FF8A00?style=flat&logo=xgboost&logoColor=white" alt="XGBoost"/>
-  - **Outcome**: A fine-tuned regressor model mapping pricing trends across real estate benchmarks.
+  - **Outcome**: Fine-tuned regressor model mapping pricing trends across real estate benchmarks.
   
   <p align="center">
     <a href="https://thesubhankar.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/⭐_Live_Demo-06b6d4?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+      <img src="https://img.shields.io/badge/⭐_Live_Demo-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/>
     </a>
     <a href="https://github.com/thesubhankar" target="_blank">
       <img src="https://img.shields.io/badge/📂_GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
@@ -141,17 +147,17 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
   <summary><b>📊 Executive HR Performance Tool (Data Analysis)</b></summary>
   <br/>
 
-  - **Objective**: Monitor organization stability metrics by predicting turnover trends, company attrition rates, and satisfaction variables.
+  - **Objective**: Monitor organization stability metrics by predicting turnover trends, attrition rates, and satisfaction variables.
   - **Key Techniques**: Interactive demographic filtering, headcount projections, and salary disparity reports.
   - **Tech Stack**: 
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
     <img src="https://img.shields.io/badge/DAX-29ffce?style=flat" alt="DAX"/>
     <img src="https://img.shields.io/badge/PowerQuery-33A9DC?style=flat" alt="Power Query"/>
-  - **Outcome**: Built a live dashboard to capture an 18.4% company attrition rate, mapping cohort satisfaction indices.
+  - **Outcome**: Live dashboard capturing an 18.4% company attrition rate with cohort satisfaction indices.
 
   <p align="center">
     <a href="https://thesubhankar.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/⭐_Live_Demo-06b6d4?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+      <img src="https://img.shields.io/badge/⭐_Live_Demo-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/>
     </a>
     <a href="https://github.com/thesubhankar" target="_blank">
       <img src="https://img.shields.io/badge/📂_GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
@@ -166,17 +172,17 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
   <summary><b>👥 Customer Cohorts & RFM Segmentation (Data Science)</b></summary>
   <br/>
 
-  - **Objective**: Conduct behavioral clustering to isolate premium user profiles and model retention decays.
+  - **Objective**: Behavioral clustering to isolate premium user profiles and model retention decay curves.
   - **Key Techniques**: Database self-joins, complex window CTEs, and RFM scoring.
   - **Tech Stack**: 
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat" alt="Seaborn"/>
-  - **Outcome**: Visualized clear cohort curves to identify active retention trends for growth strategy.
+  - **Outcome**: Visualized cohort curves to identify active retention trends for growth strategy.
 
   <p align="center">
     <a href="https://thesubhankar.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/⭐_Live_Demo-06b6d4?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+      <img src="https://img.shields.io/badge/⭐_Live_Demo-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/>
     </a>
     <a href="https://github.com/thesubhankar" target="_blank">
       <img src="https://img.shields.io/badge/📂_GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
@@ -191,18 +197,18 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
   <summary><b>🌐 Interactive Data Insights Interface (Data Analysis)</b></summary>
   <br/>
 
-  - **Objective**: Build a browser-based parser allowing custom CSV uploads to instantly produce distributions, trends, and correlations.
-  - **Key Techniques**: CSV file indexing, client-side parsing, and canvas-based graphics rendering.
+  - **Objective**: Browser-based parser for custom CSV uploads to instantly produce distributions, trends, and correlations.
+  - **Key Techniques**: CSV indexing, client-side parsing, and canvas graphics rendering.
   - **Tech Stack**: 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
-  - **Outcome**: Created a local web solution producing clean histograms, scatterplots, and matrix tables dynamically.
+  - **Outcome**: Local web solution producing clean dynamic histograms, scatterplots, and matrix tables.
 
   <p align="center">
     <a href="https://thesubhankar.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/⭐_Live_Demo-06b6d4?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+      <img src="https://img.shields.io/badge/⭐_Live_Demo-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/>
     </a>
     <a href="https://github.com/thesubhankar" target="_blank">
       <img src="https://img.shields.io/badge/📂_GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
@@ -222,11 +228,11 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
   - **Tech Stack**: 
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/Scikit_Learn-F15A24?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-  - **Outcome**: Achieved an AUC of 0.88, demonstrating contract terms and tenure weights as chief churn predictors.
+  - **Outcome**: Achieved AUC of 0.88 with contract terms and tenure weights as chief churn predictors.
 
   <p align="center">
     <a href="https://thesubhankar.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/⭐_Live_Demo-06b6d4?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+      <img src="https://img.shields.io/badge/⭐_Live_Demo-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/>
     </a>
     <a href="https://github.com/thesubhankar" target="_blank">
       <img src="https://img.shields.io/badge/📂_GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
@@ -246,11 +252,11 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
   - **Tech Stack**: 
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau"/>
-  - **Outcome**: A fully dynamic retail dashboard showcasing key metrics comparison.
+  - **Outcome**: Dynamic retail dashboard showcasing key metrics comparison.
 
   <p align="center">
     <a href="https://thesubhankar.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/⭐_Live_Demo-06b6d4?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+      <img src="https://img.shields.io/badge/⭐_Live_Demo-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/>
     </a>
     <a href="https://github.com/thesubhankar" target="_blank">
       <img src="https://img.shields.io/badge/📂_GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
@@ -272,7 +278,7 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
   <a href="https://leetcode.com/u/subhaknar/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
   </a>
-  <a href="https://www.hackerrank.com/profile/thesubhankar" target="_blank">
+  <a href="https://www.hackerrank.com/profile/thesubhankarx" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-SQL_5_Stars-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Badge" />
   </a>
   <a href="https://colab.research.google.com/" target="_blank">
@@ -298,7 +304,7 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
 
 ---
 
-### 📊 GitHub Overview
+### 📊 GitHub Overview & Activity
 
 <p align="center">
   <a href="https://github.com/thesubhankar">
@@ -323,7 +329,7 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
 
 <p align="center">
   <a href="https://github.com/thesubhankar">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesubhankar&theme=tokyonight&bg_color=0f172a&color=06b6d4&line=06b6d4&point=ffffff&area=true&hide_border=true" alt="Subhankar's Contribution Graph" width="97%" />
+    <img src="https://github-activity-graph.vercel.app/graph?username=thesubhankar&theme=tokyonight&bg_color=0f172a&color=06b6d4&line=06b6d4&point=ffffff&area=true&hide_border=true" alt="Subhankar's Contribution Graph" width="97%" />
   </a>
 </p>
 
@@ -343,7 +349,7 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
 
 ---
 
-### 📬 Get in Touch
+### 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:thesubhankar.giri992@gmail.com" target="_blank">
@@ -353,7 +359,16 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
     <img src="https://img.shields.io/badge/LinkedIn-Subhankar_Giri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://thesubhankar.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://x.com/subhankar_92006" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter/X-Subhankar-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+  </a>
+  <a href="https://www.instagram.com/the_subhankar.x?igsh=MTI0c3NqYjJidjRhYw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-the__subhankar.x-ff007f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.facebook.com/share/198KkgisKY/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Odisha,_India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge"/>
 </p>
@@ -365,5 +380,5 @@ A passionate **Data Scientist & Analyst** with a strong interest in **AI/ML syst
 </p>
 
 <p align="center">
-<img src="./footer_banner.svg" alt="Thanks for visiting - Animated Landscape Banner" width="100%" />
+<img src="./footer_banner.svg" alt="Thanks for visiting - Animated Neon Landscape Banner" width="100%" />
 </p>
