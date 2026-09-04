@@ -188,12 +188,12 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/thesubhankar">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=thesubhankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Stats&cache_seconds=1800&v=6" alt="Subhankar's GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=thesubhankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Stats&cache_seconds=1800&v=7" alt="Subhankar's GitHub Stats" width="100%" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/thesubhankar">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=thesubhankar&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&custom_title=Top%20Languages%20by%20Repo&cache_seconds=1800&v=6" alt="Top Languages by Repo" width="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=thesubhankar&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&custom_title=Top%20Languages%20by%20Repo&cache_seconds=1800&v=7" alt="Top Languages by Repo" width="100%" />
       </a>
     </td>
   </tr>
