@@ -108,8 +108,8 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
 ### 💻 Highlighted Projects
 
 <p align="center">
-  <a href="https://thiranex-internship-njtpmctjcmcphu6hywitxa.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Launch_Live_App-Thiranex_Unified_Portal-00f0ff?style=for-the-badge&logo=streamlit&logoColor=black" alt="Live App Badge"/>
+  <a href="https://thesubhankar.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_Live_Portfolio-thesubhankar.netlify.app-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio Logo Badge"/>
   </a>
 </p>
 
