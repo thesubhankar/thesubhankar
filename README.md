@@ -108,155 +108,27 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
 ### 💻 Highlighted Projects
 
 <p align="center">
-  <a href="https://thesubhankar.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_Live_Portfolio-thesubhankar.netlify.app-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio Logo Badge"/>
+  <a href="https://thiranex-internship-njtpmctjcmcphu6hywitxa.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Launch_Live_App-Thiranex_Unified_Portal-00f0ff?style=for-the-badge&logo=streamlit&logoColor=black" alt="Live App Badge"/>
   </a>
 </p>
 
-<p align="center">
-  <i>Explore featured projects below. Interactive live demos are available on my portfolio website!</i>
-</p>
-
-<details>
-  <summary><b>🏠 Housing Analytics & Valuation (AI & Machine Learning)</b></summary>
+<details open>
+  <summary><b>📌 Thiranex Data Science Unified Portal & Retail AI Engine</b></summary>
   <br/>
 
-  - **Objective**: Predict housing valuation patterns based on spatial features, demographic distributions, and structural age.
-  - **Key Techniques**: Feature weighting, correlation matrix grid mapping, and residual error optimization.
-  - **Tech Stack**: 
+  - 📝 **Description**: An interactive 4-in-1 full-stack Data Science web application covering automated data cleaning, predictive ML modeling, statistical workforce EDA, and an enterprise customer churn AI simulator with financial ROI optimization.
+  - 🛠️ **Tech Stack**: 
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
+    <img src="https://img.shields.io/badge/Scikit_Learn-F15A24?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/Scikit_Learn-F15A24?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-    <img src="https://img.shields.io/badge/XGBoost-FF8A00?style=flat&logo=xgboost&logoColor=white" alt="XGBoost"/>
-  - **Outcome**: Fine-tuned regressor model mapping pricing trends across real estate benchmarks.
-  
-  <p align="center">
-    <a href="https://thesubhankar.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/⭐_Live_Demo-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/>
-    </a>
-    <a href="https://github.com/thesubhankar" target="_blank">
-      <img src="https://img.shields.io/badge/📂_GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
-    </a>
-    <a href="https://github.com/thesubhankar" target="_blank">
-      <img src="https://img.shields.io/badge/📄_Documentation-475569?style=flat-square&logo=gitbook&logoColor=white" alt="Documentation"/>
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary><b>📊 Executive HR Performance Tool (Data Analysis)</b></summary>
-  <br/>
-
-  - **Objective**: Monitor organization stability metrics by predicting turnover trends, attrition rates, and satisfaction variables.
-  - **Key Techniques**: Interactive demographic filtering, headcount projections, and salary disparity reports.
-  - **Tech Stack**: 
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
-    <img src="https://img.shields.io/badge/DAX-29ffce?style=flat" alt="DAX"/>
-    <img src="https://img.shields.io/badge/PowerQuery-33A9DC?style=flat" alt="Power Query"/>
-  - **Outcome**: Live dashboard capturing an 18.4% company attrition rate with cohort satisfaction indices.
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
 
   <p align="center">
-    <a href="https://thesubhankar.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/⭐_Live_Demo-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/>
-    </a>
-    <a href="https://github.com/thesubhankar" target="_blank">
-      <img src="https://img.shields.io/badge/📂_GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
-    </a>
-    <a href="https://github.com/thesubhankar" target="_blank">
-      <img src="https://img.shields.io/badge/📄_Documentation-475569?style=flat-square&logo=gitbook&logoColor=white" alt="Documentation"/>
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary><b>👥 Customer Cohorts & RFM Segmentation (Data Science)</b></summary>
-  <br/>
-
-  - **Objective**: Behavioral clustering to isolate premium user profiles and model retention decay curves.
-  - **Key Techniques**: Database self-joins, complex window CTEs, and RFM scoring.
-  - **Tech Stack**: 
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat" alt="Seaborn"/>
-  - **Outcome**: Visualized cohort curves to identify active retention trends for growth strategy.
-
-  <p align="center">
-    <a href="https://thesubhankar.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/⭐_Live_Demo-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/>
-    </a>
-    <a href="https://github.com/thesubhankar" target="_blank">
-      <img src="https://img.shields.io/badge/📂_GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
-    </a>
-    <a href="https://github.com/thesubhankar" target="_blank">
-      <img src="https://img.shields.io/badge/📄_Documentation-475569?style=flat-square&logo=gitbook&logoColor=white" alt="Documentation"/>
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary><b>🌐 Interactive Data Insights Interface (Data Analysis)</b></summary>
-  <br/>
-
-  - **Objective**: Browser-based parser for custom CSV uploads to instantly produce distributions, trends, and correlations.
-  - **Key Techniques**: CSV indexing, client-side parsing, and canvas graphics rendering.
-  - **Tech Stack**: 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
-  - **Outcome**: Local web solution producing clean dynamic histograms, scatterplots, and matrix tables.
-
-  <p align="center">
-    <a href="https://thesubhankar.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/⭐_Live_Demo-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/>
-    </a>
-    <a href="https://github.com/thesubhankar" target="_blank">
-      <img src="https://img.shields.io/badge/📂_GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
-    </a>
-    <a href="https://github.com/thesubhankar" target="_blank">
-      <img src="https://img.shields.io/badge/📄_Documentation-475569?style=flat-square&logo=gitbook&logoColor=white" alt="Documentation"/>
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary><b>📉 Customer Churn Prediction (AI & Machine Learning)</b></summary>
-  <br/>
-
-  - **Objective**: Detect platform subscription churn probability early using behavioral risk factors.
-  - **Key Techniques**: Confusion matrix scoring, risk meter dialing, and ROC-AUC curve checking.
-  - **Tech Stack**: 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Scikit_Learn-F15A24?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-  - **Outcome**: Achieved AUC of 0.88 with contract terms and tenure weights as chief churn predictors.
-
-  <p align="center">
-    <a href="https://thesubhankar.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/⭐_Live_Demo-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/>
-    </a>
-    <a href="https://github.com/thesubhankar" target="_blank">
-      <img src="https://img.shields.io/badge/📂_GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
-    </a>
-    <a href="https://github.com/thesubhankar" target="_blank">
-      <img src="https://img.shields.io/badge/📄_Documentation-475569?style=flat-square&logo=gitbook&logoColor=white" alt="Documentation"/>
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary><b>🛍️ Retail Sales BI Tool (Data Analysis)</b></summary>
-  <br/>
-
-  - **Objective**: Map store metrics, historical performance, and targets across monthly sales regions.
-  - **Key Techniques**: Target setting, revenue growth trend plotting, and store performance indexing.
-  - **Tech Stack**: 
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau"/>
-  - **Outcome**: Dynamic retail dashboard showcasing key metrics comparison.
-
-  <p align="center">
-    <a href="https://thesubhankar.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/⭐_Live_Demo-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="Live Demo"/>
+    <a href="https://thiranex-internship-njtpmctjcmcphu6hywitxa.streamlit.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🔗_Live_Demo-00f0ff?style=flat-square&logo=streamlit&logoColor=black" alt="Live Demo"/>
     </a>
     <a href="https://github.com/thesubhankar" target="_blank">
       <img src="https://img.shields.io/badge/📂_GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
