@@ -130,10 +130,10 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
     <a href="https://thiranex-internship-njtpmctjcmcphu6hywitxa.streamlit.app/" target="_blank">
       <img src="https://img.shields.io/badge/🔗_Live_Demo-00f0ff?style=flat-square&logo=streamlit&logoColor=black" alt="Live Demo"/>
     </a>
-    <a href="https://github.com/thesubhankar" target="_blank">
+    <a href="https://github.com/thesubhankar/thiranex-internship" target="_blank">
       <img src="https://img.shields.io/badge/📂_GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
     </a>
-    <a href="https://github.com/thesubhankar" target="_blank">
+    <a href="https://github.com/thesubhankar/thiranex-internship" target="_blank">
       <img src="https://img.shields.io/badge/📄_Documentation-475569?style=flat-square&logo=gitbook&logoColor=white" alt="Documentation"/>
     </a>
   </p>
