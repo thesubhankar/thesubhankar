@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./banner.svg" alt="Subhankar Giri - Animated Neon Landscape Banner" width="100%" />
+  <img src="./banner.svg?v=2" alt="Subhankar Giri - Animated Data Science & AI/ML Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -261,5 +261,5 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
 </p>
 
 <p align="center">
-<img src="./footer_banner.svg" alt="Thanks for visiting - Animated Neon Landscape Banner" width="100%" />
+<img src="./footer_banner.svg?v=2" alt="Thanks for visiting - Animated Data Science & AI/ML Cyberpunk Banner" width="100%" />
 </p>
