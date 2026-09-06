@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/banner.svg?v=2" alt="Subhankar Giri - Animated Data Science & AI/ML Banner" width="100%" />
+  <img src="assets/banner.jpg" alt="Subhankar Giri - Hero Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -13,20 +13,17 @@
 </p>
 
 <p align="center">
+  <a href="resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-PDF-00f0ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Download Resume"/>
+  </a>
   <a href="https://thesubhankar.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live_Site-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/subhankar-giri-2a4b0a295" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/subhankar_92006" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter/X-Subhankar-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-  </a>
-  <a href="https://www.instagram.com/the_subhankar.x?igsh=MTI0c3NqYjJidjRhYw==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-the__subhankar.x-ff007f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.facebook.com/share/198KkgisKY/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="mailto:thesubhankar.giri992@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://github.com/thesubhankar?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/thesubhankar?label=FOLLOWERS&style=for-the-badge&color=9d4edd&logo=github&logoColor=white" alt="Followers Badge" />
@@ -35,22 +32,49 @@
 
 ---
 
-### 🚀 About Me & Introduction
+### 🚀 About Me
 
-A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems** & Data Engineering. Currently pursuing my B.Tech in Computer Science & Engineering, I specialize in transforming raw, unstructured datasets into predictive models and actionable business insights.
+<p align="center">
+  <img src="assets/coding-animation.gif" alt="3D Cyberpunk Developer Coding Animation" width="100%" />
+</p>
+
+A passionate **Data Scientist & AI/ML Engineer** with a strong foundation in **Predictive Analytics, Machine Learning Systems, & Big Data Engineering**. Currently pursuing my B.Tech in Computer Science & Engineering, I specialize in transforming raw, complex datasets into high-accuracy machine learning models and interactive executive decision portals.
 
 - 🎓 **Education**: B.Tech in Computer Science & Engineering *(In Progress)*
-- 💼 **Experience**: Data Science Intern
-- 🔭 **Focus Areas**: Advanced Predictive Analytics, Machine Learning Optimization, BI Dashboarding
+- 💼 **Experience**: Data Science Intern @ Thiranex
+- 🔭 **Focus Areas**: End-to-End ML Pipelines, Predictive Analytics, AI Web Applications, BI Dashboarding
+- ⚡ **Fun Fact**: I build interactive AI web portals that turn raw data into strategic financial insights!
 
 ---
 
 ### 🌱 Currently Learning & Exploring
 
 - 🧠 **Deep Learning**: Neural Networks, CNNs, LSTMs, Transformers
-- 🗣️ **Natural Language Processing (NLP)**: Text Embeddings, LLM Finetuning
+- 🗣️ **Natural Language Processing (NLP)**: Text Embeddings, LLM Finetuning & RAG
 - ⚡ **Generative AI**: GANs, Diffusion Models, Prompt Engineering
-- 🚀 **Apache Spark**: Distributed Big Data Analytics & Pipelines
+- 🚀 **Apache Spark**: Distributed Big Data Pipelines & Real-time Analytics
+
+---
+
+### ⚡ Competitive Programming & Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/subhaknar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-subhaknar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/thesubhankarx" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-thesubhankarx-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
+  </a>
+  <a href="https://www.codechef.com/users/thesubhankar" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-thesubhankar-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/thesubhankar/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-thesubhankar-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
+  </a>
+  <a href="https://www.kaggle.com/thesubhankar" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-thesubhankar-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile" />
+  </a>
+</p>
 
 ---
 
@@ -79,6 +103,7 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
       <img src="https://img.shields.io/badge/XGBoost-FF8A00?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
     </td>
   </tr>
@@ -89,6 +114,7 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
       <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
       <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
       <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
     </td>
     <td align="center" width="50%" valign="top">
@@ -99,6 +125,7 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
       <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab"/>
     </td>
   </tr>
 </table>
@@ -141,26 +168,7 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
 
 ---
 
-### 🏆 Coding Achievements
-
-<p align="center">
-  <a href="https://www.kaggle.com/thesubhankar" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" />
-  </a>
-  <a href="https://leetcode.com/u/subhaknar/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/thesubhankarx" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-SQL_5_Stars-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Badge" />
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Colab-Notebooks-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab Badge" />
-  </a>
-</p>
-
----
-
-### 🎓 Certifications
+### 💼 Experience & Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/IBM-Data_Science_Specialization-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Certificate" />
@@ -169,6 +177,7 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
   <img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certificate" />
 </p>
 
+- 💼 **Data Science Intern** @ Thiranex *(Predictive modeling & full-stack Streamlit AI deployment)*
 - 📜 **IBM Data Science Specialization**
 - 📜 **Google Data Analytics Professional Certificate**
 - 📜 **Microsoft Power BI Desktop Complete**
@@ -176,7 +185,7 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
 
 ---
 
-### 📊 GitHub Overview & Activity
+### 📊 GitHub Analytics & Open Source
 
 <p align="center">
   <a href="https://github.com/thesubhankar">
@@ -188,12 +197,12 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/thesubhankar">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=thesubhankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Stats&cache_seconds=1800&v=7" alt="Subhankar's GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=thesubhankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Stats&cache_seconds=1800&v=8" alt="Subhankar's GitHub Stats" width="100%" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/thesubhankar">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=thesubhankar&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&custom_title=Top%20Languages%20by%20Repo&cache_seconds=1800&v=7" alt="Top Languages by Repo" width="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=thesubhankar&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&custom_title=Top%20Languages%20by%20Repo&cache_seconds=1800&v=8" alt="Top Languages by Repo" width="100%" />
       </a>
     </td>
   </tr>
@@ -225,7 +234,7 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thesubhankar/thesubhankar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake - Neon 3D Style" width="100%" />
+  <img src="https://raw.githubusercontent.com/thesubhankar/thesubhankar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake - Multi-Color Neon 3D Style" width="100%" />
 </p>
 
 ---
@@ -234,13 +243,28 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
 
 <p align="center">
   <a href="mailto:thesubhankar.giri992@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-thesubhankar.giri992--gmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-thesubhankar.giri992--gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/subhankar-giri-2a4b0a295" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Subhankar_Giri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://thesubhankar.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live_Site-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://github.com/thesubhankar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-thesubhankar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/subhaknar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-subhaknar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://www.codechef.com/users/thesubhankar" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-thesubhankar-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/thesubhankar/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-thesubhankar-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/thesubhankarx" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-thesubhankarx-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
   <a href="https://x.com/subhankar_92006" target="_blank">
     <img src="https://img.shields.io/badge/Twitter/X-Subhankar-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
@@ -261,5 +285,5 @@ A passionate **Data Scientist & Analyst** with a strong focus on **AI/ML Systems
 </p>
 
 <p align="center">
-<img src="./assets/footer_banner.svg?v=2" alt="Thanks for visiting - Animated Data Science & AI/ML Cyberpunk Banner" width="100%" />
+<img src="assets/footer_banner.svg?v=2" alt="Thanks for visiting - Animated Data Science & AI/ML Cyberpunk Banner" width="100%" />
 </p>
