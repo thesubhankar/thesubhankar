@@ -35,7 +35,7 @@
 ### 🚀 About Me
 
 <p align="center">
-  <img src="assets/coding-animation.gif?v=2" alt="3D Cyberpunk Developer Coding Animation" width="100%" />
+  <img src="assets/coding-animation.png?v=2" alt="3D Cyberpunk Developer Coding Concept" width="100%" />
 </p>
 
 A passionate **Data Scientist & AI/ML Engineer** with a strong foundation in **Predictive Analytics, Machine Learning Systems, & Big Data Engineering**. Currently pursuing my B.Tech in Computer Science & Engineering, I specialize in transforming raw, complex datasets into high-accuracy machine learning models and interactive executive decision portals.
