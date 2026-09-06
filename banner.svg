@@ -1,211 +1,217 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="100%" height="240" style="border-radius: 12px; overflow: hidden;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 450" width="100%" height="100%" style="border-radius: 12px; overflow: hidden; background: #030712;">
   <defs>
-    <!-- Import Google Font -->
+    <!-- Font Import -->
     <style type="text/css">
-      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800&amp;family=Fira+Code:wght@500&amp;display=swap');
       
-      .wrapper {
-        font-family: 'Outfit', -apple-system, sans-serif;
-        color: #f1f5f9;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        height: 100%;
-        text-align: center;
-        background: transparent;
-      }
-      
-      .static-text {
-        font-size: 2.2rem;
+      .main-title {
+        font-family: 'Plus Jakarta Sans', -apple-system, sans-serif;
+        font-size: 58px;
         font-weight: 800;
-        margin: 0;
-        color: #ffffff;
-        text-shadow: 0 0 15px rgba(6, 182, 212, 0.4);
+        fill: #ffffff;
         letter-spacing: -0.02em;
       }
       
-      .typing-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-top: 6px;
-        height: 40px;
-      }
-      
-      .prefix {
-        font-size: 1.25rem;
-        color: #94a3b8;
+      .subtitle {
+        font-family: 'Plus Jakarta Sans', -apple-system, sans-serif;
+        font-size: 24px;
         font-weight: 600;
-        margin-right: 6px;
-      }
-      
-      .line {
-        font-size: 1.25rem;
-        color: #06b6d4;
-        font-weight: 600;
-        white-space: nowrap;
-        overflow: hidden;
-        border-right: 2px solid #06b6d4;
-        width: 0;
-        height: 0;
-        opacity: 0;
-      }
-      
-      /* Typing Animation Timing for 3 cycling phrases (12s total loop) */
-      .line1 {
-        animation: type1 12s steps(27) infinite, blink 0.8s step-end infinite;
-      }
-      .line2 {
-        animation: type2 12s steps(23) infinite, blink 0.8s step-end infinite;
-      }
-      .line3 {
-        animation: type3 12s steps(25) infinite, blink 0.8s step-end infinite;
-      }
-      
-      @keyframes type1 {
-        0% { width: 0ch; height: auto; opacity: 1; }
-        10% { width: 27ch; height: auto; opacity: 1; }
-        25% { width: 27ch; height: auto; opacity: 1; }
-        30% { width: 0ch; height: auto; opacity: 1; }
-        33.3%, 100% { width: 0ch; height: 0px; opacity: 0; }
-      }
-      
-      @keyframes type2 {
-        0%, 33.3% { width: 0ch; height: 0px; opacity: 0; }
-        33.4% { width: 0ch; height: auto; opacity: 1; }
-        43.3% { width: 23ch; height: auto; opacity: 1; }
-        58.3% { width: 23ch; height: auto; opacity: 1; }
-        63.3% { width: 0ch; height: auto; opacity: 1; }
-        66.6%, 100% { width: 0ch; height: 0px; opacity: 0; }
-      }
-      
-      @keyframes type3 {
-        0%, 66.6% { width: 0ch; height: 0px; opacity: 0; }
-        66.7% { width: 0ch; height: auto; opacity: 1; }
-        76.6% { width: 25ch; height: auto; opacity: 1; }
-        91.6% { width: 25ch; height: auto; opacity: 1; }
-        96.6% { width: 0ch; height: auto; opacity: 1; }
-        100% { width: 0ch; height: 0px; opacity: 0; }
-      }
-      
-      @keyframes blink {
-        from, to { border-color: transparent }
-        50% { border-color: #06b6d4 }
+        fill: #cbd5e1;
+        letter-spacing: 0.05em;
       }
 
-      /* Twinkling Stars */
+      .tech-line {
+        stroke: #06b6d4;
+        stroke-width: 1.5;
+        stroke-dasharray: 8 6;
+        opacity: 0.6;
+        animation: dash 20s linear infinite;
+      }
+
+      @keyframes dash {
+        to {
+          stroke-dashoffset: -100;
+        }
+      }
+
+      .pulse-node {
+        animation: pulse 3s infinite ease-in-out;
+      }
+
+      @keyframes pulse {
+        0%, 100% { opacity: 0.4; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.3); }
+      }
+
       .star {
         animation: twinkle 4s infinite ease-in-out;
       }
-      .star1 { animation-delay: 0s; }
-      .star2 { animation-delay: 1.5s; }
-      .star3 { animation-delay: 2.8s; }
-      
       @keyframes twinkle {
-        0%, 100% { opacity: 0.3; }
-        50% { opacity: 1; }
-      }
-
-      /* Moving Water Ripples */
-      .wave {
-        animation: ripple 8s infinite linear;
-      }
-      .wave2 {
-        animation: ripple 12s infinite linear reverse;
-      }
-      
-      @keyframes ripple {
-        0% { transform: translateX(0px); }
-        100% { transform: translateX(-40px); }
+        0%, 100% { opacity: 0.2; }
+        50% { opacity: 0.9; }
       }
     </style>
-    
-    <!-- Linear Gradients -->
-    <linearGradient id="sky-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+
+    <!-- Glow Filter -->
+    <filter id="cyan-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="purple-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Gradients -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#020617" />
-      <stop offset="60%" stop-color="#0f172a" />
-      <stop offset="100%" stop-color="#1e293b" />
+      <stop offset="45%" stop-color="#0b0f19" />
+      <stop offset="70%" stop-color="#090d16" />
+      <stop offset="100%" stop-color="#030712" />
     </linearGradient>
 
-    <linearGradient id="mountain-grad-back" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#1e293b" />
-      <stop offset="100%" stop-color="#0f172a" />
+    <linearGradient id="beam-purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0" />
+      <stop offset="50%" stop-color="#c084fc" stop-opacity="1" />
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0" />
     </linearGradient>
 
-    <linearGradient id="mountain-grad-front" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a" stop-opacity="0.9" />
-      <stop offset="100%" stop-color="#020617" />
+    <linearGradient id="beam-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0" />
+      <stop offset="50%" stop-color="#22d3ee" stop-opacity="1" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0" />
     </linearGradient>
 
-    <linearGradient id="water-grad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#022a3a" />
-      <stop offset="50%" stop-color="#031e29" />
-      <stop offset="100%" stop-color="#01080e" />
+    <linearGradient id="frame-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#06b6d4" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.8" />
+    </linearGradient>
+
+    <linearGradient id="city-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#030712" stop-opacity="0.9" />
     </linearGradient>
   </defs>
 
-  <!-- Sky Background -->
-  <rect width="800" height="240" fill="url(#sky-grad)" />
+  <!-- Background -->
+  <rect width="1200" height="450" fill="url(#bg-grad)" />
 
-  <!-- Twinkling stars in sky -->
-  <circle class="star star1" cx="80" cy="40" r="1" fill="#ffffff" />
-  <circle class="star star2" cx="220" cy="65" r="1.5" fill="#ffffff" />
-  <circle class="star star3" cx="340" cy="30" r="1" fill="#ffffff" />
-  <circle class="star star1" cx="540" cy="50" r="1.5" fill="#ffffff" />
-  <circle class="star star2" cx="680" cy="25" r="1" fill="#ffffff" />
-  <circle class="star star3" cx="740" cy="70" r="1.2" fill="#ffffff" />
-  
-  <!-- Cyber Moon/Sun -->
-  <circle cx="400" cy="110" r="45" fill="none" stroke="#06b6d4" stroke-width="1" opacity="0.35" />
-  <circle cx="400" cy="110" r="40" fill="#06b6d4" opacity="0.15" />
+  <!-- Perspective Grid Lines -->
+  <g stroke="#1e293b" stroke-width="1" opacity="0.4">
+    <!-- Horizontal Perspective Lines -->
+    <line x1="0" y1="280" x2="1200" y2="280" />
+    <line x1="0" y1="320" x2="1200" y2="320" />
+    <line x1="0" y1="360" x2="1200" y2="360" />
+    <line x1="0" y1="400" x2="1200" y2="400" />
+    <line x1="0" y1="430" x2="1200" y2="430" />
 
-  <!-- Background Mountain Range -->
-  <polygon points="-50,170 120,90 280,170" fill="url(#mountain-grad-back)" stroke="rgba(255,255,255,0.05)" stroke-width="1" />
-  <polygon points="520,170 680,80 850,170" fill="url(#mountain-grad-back)" stroke="rgba(255,255,255,0.05)" stroke-width="1" />
-  <polygon points="200,170 400,60 600,170" fill="url(#mountain-grad-back)" stroke="rgba(255,255,255,0.05)" stroke-width="1" />
+    <!-- Vanishing Lines from Center Horizon (600, 225) -->
+    <line x1="600" y1="225" x2="-200" y2="450" />
+    <line x1="600" y1="225" x2="0" y2="450" />
+    <line x1="600" y1="225" x2="200" y2="450" />
+    <line x1="600" y1="225" x2="400" y2="450" />
+    <line x1="600" y1="225" x2="600" y2="450" />
+    <line x1="600" y1="225" x2="800" y2="450" />
+    <line x1="600" y1="225" x2="1000" y2="450" />
+    <line x1="600" y1="225" x2="1200" y2="450" />
+    <line x1="600" y1="225" x2="1400" y2="450" />
 
-  <!-- Foreground Mountains (with neon glowing ridges) -->
+    <!-- Top Ceiling Grid -->
+    <line x1="600" y1="225" x2="-200" y2="0" />
+    <line x1="600" y1="225" x2="200" y2="0" />
+    <line x1="600" y1="225" x2="600" y2="0" />
+    <line x1="600" y1="225" x2="1000" y2="0" />
+    <line x1="600" y1="225" x2="1400" y2="0" />
+  </g>
+
+  <!-- Twinkling Stars -->
+  <g fill="#ffffff">
+    <circle class="star" cx="120" cy="60" r="1" opacity="0.6" />
+    <circle class="star" cx="280" cy="90" r="1.5" opacity="0.8" />
+    <circle class="star" cx="450" cy="40" r="1.2" opacity="0.5" />
+    <circle class="star" cx="750" cy="70" r="1.5" opacity="0.7" />
+    <circle class="star" cx="980" cy="50" r="1" opacity="0.9" />
+    <circle class="star" cx="1100" cy="110" r="1.2" opacity="0.6" />
+  </g>
+
+  <!-- Cyberpunk City Skyline (Right Side Horizon) -->
+  <g fill="url(#city-grad)" stroke="#312e81" stroke-width="0.5">
+    <rect x="820" y="160" width="22" height="65" />
+    <rect x="846" y="140" width="30" height="85" />
+    <rect x="880" y="170" width="18" height="55" />
+    <rect x="902" y="120" width="35" height="105" />
+    <!-- Spire building -->
+    <polygon points="950,110 953,80 956,110" />
+    <rect x="942" y="110" width="20" height="115" />
+    <rect x="966" y="150" width="28" height="75" />
+    <rect x="998" y="130" width="32" height="95" />
+    <rect x="1034" y="165" width="24" height="60" />
+    <rect x="1062" y="145" width="40" height="80" />
+  </g>
+
+  <!-- Glowing Horizon Line -->
+  <!-- Left Magenta Light Horizon -->
+  <line x1="0" y1="225" x2="600" y2="225" stroke="#c084fc" stroke-width="3" filter="url(#purple-glow)" />
+  <line x1="0" y1="225" x2="600" y2="225" stroke="#ffffff" stroke-width="1" />
+
+  <!-- Right Cyan Light Horizon -->
+  <line x1="600" y1="225" x2="1200" y2="225" stroke="#22d3ee" stroke-width="3" filter="url(#cyan-glow)" />
+  <line x1="600" y1="225" x2="1200" y2="225" stroke="#ffffff" stroke-width="1" />
+
+  <!-- Tech Circuit Node Lines (Left Side) -->
+  <g stroke="#a855f7" stroke-width="1.2" fill="none" opacity="0.7">
+    <path d="M 80,120 L 220,120 L 280,170 L 350,170" />
+    <circle cx="80" cy="120" r="3" fill="#a855f7" />
+    <circle cx="220" cy="120" r="2.5" fill="#c084fc" />
+    <circle cx="350" cy="170" r="3" fill="#a855f7" />
+
+    <path d="M 120,320 L 250,320 L 300,270 L 380,270" />
+    <circle cx="120" cy="320" r="3" fill="#a855f7" />
+    <circle cx="380" cy="270" r="2.5" fill="#c084fc" />
+  </g>
+
+  <!-- Tech Circuit Node Lines (Right Side) -->
+  <g stroke="#06b6d4" stroke-width="1.2" fill="none" opacity="0.7">
+    <path d="M 1120,130 L 980,130 L 920,170 L 850,170" />
+    <circle cx="1120" cy="130" r="3" fill="#06b6d4" />
+    <circle cx="980" cy="130" r="2.5" fill="#22d3ee" />
+    <circle cx="850" cy="170" r="3" fill="#06b6d4" />
+
+    <path d="M 1080,310 L 950,310 L 900,270 L 820,270" />
+    <circle cx="1080" cy="310" r="3" fill="#06b6d4" />
+    <circle cx="820" cy="270" r="2.5" fill="#22d3ee" />
+  </g>
+
+  <!-- Center Framing Box (Futuristic Sci-Fi HUD Container) -->
   <g>
-    <!-- Left Mountain -->
-    <polygon points="-80,180 80,105 240,180" fill="url(#mountain-grad-front)" />
-    <line x1="-80" y1="180" x2="80" y2="105" stroke="#06b6d4" stroke-width="1.5" opacity="0.8" />
-    <line x1="80" y1="105" x2="240" y2="180" stroke="#06b6d4" stroke-width="0.8" opacity="0.5" />
-    
-    <!-- Right Mountain -->
-    <polygon points="560,180 700,95 860,180" fill="url(#mountain-grad-front)" />
-    <line x1="560" y1="180" x2="700" y2="95" stroke="#06b6d4" stroke-width="0.8" opacity="0.5" />
-    <line x1="700" y1="95" x2="860" y2="180" stroke="#06b6d4" stroke-width="1.5" opacity="0.8" />
+    <!-- Background Glass Tint -->
+    <rect x="300" y="145" width="600" height="155" rx="16" fill="#090d16" fill-opacity="0.75" stroke="url(#frame-grad)" stroke-width="2" filter="url(#cyan-glow)" />
+
+    <!-- Corner Accents -->
+    <!-- Top Left -->
+    <path d="M 290,165 L 290,135 L 320,135" stroke="#a855f7" stroke-width="3" fill="none" />
+    <!-- Top Right -->
+    <path d="M 910,165 L 910,135 L 880,135" stroke="#06b6d4" stroke-width="3" fill="none" />
+    <!-- Bottom Left -->
+    <path d="M 290,280 L 290,310 L 320,310" stroke="#a855f7" stroke-width="3" fill="none" />
+    <!-- Bottom Right -->
+    <path d="M 910,280 L 910,310 L 880,310" stroke="#06b6d4" stroke-width="3" fill="none" />
   </g>
 
-  <!-- Water Body -->
-  <rect x="0" y="170" width="800" height="70" fill="url(#water-grad)" />
-  
-  <!-- Neon Water Horizon Line -->
-  <line x1="0" y1="170" x2="800" y2="170" stroke="#06b6d4" stroke-width="2" opacity="0.9" />
+  <!-- Center Text Content -->
+  <!-- Glow Layer -->
+  <text x="600" y="210" text-anchor="middle" class="main-title" filter="url(#cyan-glow)" opacity="0.6">Subhankar Giri</text>
+  <!-- Sharp Layer -->
+  <text x="600" y="210" text-anchor="middle" class="main-title">Subhankar Giri</text>
 
-  <!-- Animated Water Waves (Ripples) -->
-  <g opacity="0.3">
-    <!-- Wave line 1 -->
-    <path class="wave" d="M 0,185 Q 20,182 40,185 T 80,185 T 120,185 T 160,185 T 200,185 T 240,185 T 280,185 T 320,185 T 360,185 T 400,185 T 440,185 T 480,185 T 520,185 T 560,185 T 600,185 T 640,185 T 680,185 T 720,185 T 760,185 T 800,185 T 840,185" fill="none" stroke="#06b6d4" stroke-width="1.2" />
-    <!-- Wave line 2 -->
-    <path class="wave2" d="M -40,205 Q -20,202 0,205 T 40,205 T 80,205 T 120,205 T 160,205 T 200,205 T 240,205 T 280,205 T 320,205 T 360,205 T 400,205 T 440,205 T 480,205 T 520,205 T 560,205 T 600,205 T 640,205 T 680,205 T 720,205 T 760,205 T 800,205" fill="none" stroke="#06b6d4" stroke-width="1" />
-    <!-- Wave line 3 -->
-    <path class="wave" d="M 0,225 Q 20,222 40,225 T 80,225 T 120,225 T 160,225 T 200,225 T 240,225 T 280,225 T 320,225 T 360,225 T 400,225 T 440,225 T 480,225 T 520,225 T 560,225 T 600,225 T 640,225 T 680,225 T 720,225 T 760,225 T 800,225 T 840,225" fill="none" stroke="#06b6d4" stroke-width="1.5" />
-  </g>
-
-  <!-- Overlay Border -->
-  <rect width="798" height="238" x="1" y="1" rx="11" fill="none" stroke="rgba(255, 255, 255, 0.08)" stroke-width="2" />
-
-  <!-- Foreground Typing Text Content -->
-  <foreignObject x="0" y="20" width="800" height="140">
-    <div class="wrapper" xmlns="http://www.w3.org/1999/xhtml">
-      <h1 class="static-text">Hi, I'm Subhankar Giri</h1>
-      <div class="typing-container">
-        <div class="line line1">Turning Data into Insights.</div>
-        <div class="line line2">Building AI/ML Systems.</div>
-        <div class="line line3">Solving Complex Problems.</div>
-      </div>
-    </div>
-  </foreignObject>
+  <!-- Subtitle -->
+  <text x="600" y="260" text-anchor="middle" class="subtitle">Data Science &amp; AI/ML Engineer</text>
 </svg>
