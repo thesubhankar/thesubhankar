@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Download_Resume-PDF-00f0ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Download Resume"/>
+  <a href="https://raw.githubusercontent.com/thesubhankar/thesubhankar/main/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_Resume-PDF-00f0ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="View Resume PDF"/>
   </a>
   <a href="https://thesubhankar.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live_Site-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio Badge"/>
