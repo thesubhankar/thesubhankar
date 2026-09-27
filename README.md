@@ -166,6 +166,42 @@ A passionate **Data Scientist & AI/ML Engineer** with a strong foundation in **P
   </p>
 </details>
 
+<br/>
+
+<details open>
+  <summary><b>📌 IncodeVision Data Science Internship Suite</b></summary>
+  <br/>
+
+  - 📝 **Description**: End-to-end Data Science & Analytics workspace featuring automated data cleaning engines, interactive EDA dashboards, and upcoming predictive ML models deployed on Streamlit Cloud.
+  - 🛠️ **Tech Stack**: 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+    <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white" alt="Seaborn"/>
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly"/>
+
+  - 🎯 **Tasks Breakdown**:
+    - ✅ **Task 01 - Data Cleaning & Preprocessing Studio**: Automated missing value treatment, outlier detection, data type casting, and dataset export.
+      - 🌐 [**Live Streamlit App (Task 1)**](https://incodevision-task-1-datacleaningstudio.streamlit.app)
+    - ✅ **Task 02 - Exploratory Data Analysis (EDA) Analytics Dashboard**: Interactive statistical analytics, distribution graphs, correlation heatmaps, and trend insights.
+      - 📊 [**Live Streamlit Dashboard (Task 2)**](https://incodevision-task-2-eda-dashboad.streamlit.app)
+    - ⏳ **Task 03 - Sales Prediction Model**: Predictive machine learning regression & sales forecasting engine *(Upcoming)*
+    - ⏳ **Task 04 - Customer Segmentation & Predictive Analytics**: Customer behavior clustering & classification suite *(Upcoming)*
+
+  <p align="center">
+    <a href="https://incodevision-task-1-datacleaningstudio.streamlit.app" target="_blank">
+      <img src="https://img.shields.io/badge/🧹_Task_1_Live_Studio-00f0ff?style=flat-square&logo=streamlit&logoColor=black" alt="Task 1 Live App"/>
+    </a>
+    <a href="https://incodevision-task-2-eda-dashboad.streamlit.app" target="_blank">
+      <img src="https://img.shields.io/badge/📊_Task_2_Live_Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Task 2 Live Dashboard"/>
+    </a>
+    <a href="https://github.com/thesubhankar/IncodeVision-DS" target="_blank">
+      <img src="https://img.shields.io/badge/📂_IncodeVision_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
+    </a>
+  </p>
+</details>
+
 ---
 
 ### 💼 Experience & Certifications
@@ -177,6 +213,7 @@ A passionate **Data Scientist & AI/ML Engineer** with a strong foundation in **P
   <img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certificate" />
 </p>
 
+- 💼 **Data Science Intern** @ IncodeVision *(Automated data cleaning, interactive EDA dashboards, & Streamlit deployments)*
 - 💼 **Data Science Intern** @ Thiranex *(Predictive modeling & full-stack Streamlit AI deployment)*
 - 📜 **IBM Data Science Specialization**
 - 📜 **Google Data Analytics Professional Certificate**
