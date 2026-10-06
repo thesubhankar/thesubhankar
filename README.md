@@ -16,41 +16,69 @@
   </a>
 </p>
 
-<!-- PLAYBOOK IMAGE WIRING -->
+<!-- 12 DEDICATED SVG SECTIONS -->
 <p align="center">
-  <img src="./assets/hero.svg?v=7" alt="Subhankar Giri - Hero Intro" width="100%" />
+  <img src="./assets/01-hero-intro.svg?v=1" alt="👋 Hi, I'm Subhankar Giri" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/about-life.svg?v=7" alt="Subhankar Giri - Capabilities & Life Interests" width="100%" />
+  <img src="./assets/02-about-me.svg?v=1" alt="🎯 About Me" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg?v=7" alt="Subhankar Giri - Technical Skill System" width="100%" />
+  <img src="./assets/03-technical-skills.svg?v=1" alt="💻 Technical Skills" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/id-dashboard.svg?v=7" alt="Subhankar Giri - Developer ID & Metrics Dashboard" width="100%" />
+  <img src="./assets/04-currently-learning.svg?v=1" alt="🧠 Currently Learning" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/connect.svg?v=7" alt="Subhankar Giri - Connect & Network Cards" width="100%" />
+  <img src="./assets/05-featured-projects.svg?v=1" alt="🚀 Featured Projects" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/06-certifications.svg?v=1" alt="🏆 Certifications" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/07-education.svg?v=1" alt="🎓 Education" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/08-github-stats.svg?v=1" alt="📊 GitHub Statistics" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/09-github-streak.svg?v=1" alt="🔥 GitHub Contribution Streak" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/10-connect.svg?v=1" alt="📫 Connect With Me" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/11-fun-facts-hobbies.svg?v=1" alt="⚡ Fun Fact / Hobbies" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/12-quote.svg?v=1" alt="💬 Quote" width="100%" />
 </p>
 
 ---
 
-### 💻 Featured Projects & Live AI Applications
+### 💻 Interactive Project Repository Links
 
-| Project Title | Description | Tech Stack | Status / Links |
+| Project Title | Description | Tech Stack | Quick Links |
 | :--- | :--- | :--- | :---: |
-| 📌 **Thiranex Data Science Unified Portal** | Interactive 4-in-1 Data Science & ML web app featuring automated cleaning, sales prediction & churn AI ROI simulator. | `Python` `Streamlit` `Scikit-Learn` `Pandas` `Plotly` | [🌐 **Live Demo**](https://thiranex-internship-njtpmctjcmcphu6hywitxa.streamlit.app/) • [📂 **GitHub Repo**](https://github.com/thesubhankar/thiranex-internship) |
-| 📌 **IncodeVision Data Science Suite** | End-to-end Data Science workspace with automated cleaning studio and interactive statistical EDA dashboard. | `Python` `Streamlit` `Pandas` `Seaborn` `Plotly` | [🧹 **Task 1 Live**](https://incodevision-task-1-datacleaningstudio.streamlit.app) • [📊 **Task 2 Live**](https://incodevision-task-2-eda-dashboad.streamlit.app) • [📂 **GitHub Repo**](https://github.com/thesubhankar/IncodeVision-DS) |
-| 📌 **Student Management System** | Desktop-based student record handling application supporting full CRUD database operations. | `Python` `Tkinter` `MySQL` `SQLite` | [📂 **GitHub Repo**](https://github.com/thesubhankar/student-managment-system) |
-| 📌 **Netflix Data Analysis** | Exploratory Data Analysis & visual trend distributions on Netflix content additions. | `Python` `Pandas` `Matplotlib` `Seaborn` | [📂 **GitHub Repo**](https://github.com/thesubhankar/python-questions-solve) |
+| 📌 **Thiranex Data Science Portal** | Interactive 4-in-1 Data Science & ML platform with churn AI ROI simulator. | `Python` `Streamlit` `Scikit-Learn` `Pandas` | [🌐 **Live App**](https://thiranex-internship-njtpmctjcmcphu6hywitxa.streamlit.app/) • [📂 **GitHub**](https://github.com/thesubhankar/thiranex-internship) |
+| 📌 **IncodeVision Data Suite** | Automated data cleaning studio & statistical EDA dashboard suite. | `Python` `Streamlit` `Pandas` `Plotly` | [🧹 **Task 1**](https://incodevision-task-1-datacleaningstudio.streamlit.app) • [📊 **Task 2**](https://incodevision-task-2-eda-dashboad.streamlit.app) |
+| 📌 **Student Management System** | Desktop student database management application with full CRUD operations. | `Python` `Tkinter` `MySQL` `SQLite` | [📂 **GitHub**](https://github.com/thesubhankar/student-managment-system) |
+| 📌 **Netflix Data Analysis** | Exploratory Data Analysis & visual trend distributions on Netflix catalog. | `Python` `Pandas` `Matplotlib` `Seaborn` | [📂 **GitHub**](https://github.com/thesubhankar/python-questions-solve) |
 
 ---
 
-### ⚡ Clickable Social Connect & Profiles
+### ⚡ Quick Interactive Social Links
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subhankar-giri-2a4b0a295" target="_blank">
@@ -83,10 +111,4 @@
   <a href="https://www.instagram.com/the_subhankar.x" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-the__subhankar.x-ff007f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
 </p>

@@ -1,0 +1,20 @@
+<svg width="100%" height="auto" viewBox="0 0 850 200" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gB" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#247bff"/><stop offset="100%" stop-color="#ff354f"/></linearGradient>
+    <linearGradient id="gBg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#070b16"/><stop offset="100%" stop-color="#0f172a"/></linearGradient>
+  </defs>
+  <style>
+    .font-mono { font-family: 'Courier New', Courier, monospace; }
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+  <rect x="2" y="2" width="846" height="196" rx="16" fill="url(#gBg)" stroke="url(#gB)" stroke-width="2"/>
+  <g transform="translate(35, 30)">
+    <text class="font-mono" font-size="12" font-weight="bold" fill="#00f0ff" letter-spacing="1.5" x="0" y="14">🎯 ABOUT ME</text>
+    <text class="font-sans" font-size="20" font-weight="800" fill="#ffffff" x="0" y="42">Transforming Raw Data into Strategic Decision Engines</text>
+    <text class="font-sans" font-size="13" fill="#cbd5e1" x="0" y="72">
+      <tspan x="0" dy="0">A passionate Data Scientist &amp; AI/ML Engineer with a strong foundation in Predictive Analytics, Machine Learning</tspan>
+      <tspan x="0" dy="22">Systems, &amp; Big Data Engineering. Currently pursuing B.Tech CSE, I specialize in architecting high-accuracy</tspan>
+      <tspan x="0" dy="22">ML models and multi-page interactive Streamlit executive decision portals.</tspan>
+    </text>
+  </g>
+</svg>
