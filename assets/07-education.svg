@@ -12,52 +12,46 @@
     .font-mono { font-family: 'Courier New', Courier, monospace; }
     .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
     @keyframes pendulumSwing { 0% { transform: rotate(-2.5deg); } 50% { transform: rotate(2.5deg); } 100% { transform: rotate(-2.5deg); } }
-    .swing-card { transform-origin: 165px 50px; animation: pendulumSwing 4.5s infinite ease-in-out; }
+    .swing-card { transform-origin: 165px 32px; animation: pendulumSwing 4.5s infinite ease-in-out; }
     @keyframes sweep { 0% { transform: translateX(-200px) translateY(-200px); } 100% { transform: translateX(300px) translateY(300px); } }
     .light-foil { animation: sweep 6s infinite linear; }
   </style>
 
   <rect x="2" y="2" width="846" height="376" rx="16" fill="url(#gBg)" stroke="url(#gB)" stroke-width="2"/>
 
-  <!-- LEFT SIDE: REALISTIC ADMIT CARD LANYARD RIBBON (FITA) & HANGING CLIP -->
-  <!-- Left Lanyard Strap (Fita) -->
-  <path d="M 112 0 L 130 0 L 162 48 L 147 50 Z" fill="url(#lanyardRibbon)"/>
-  <path d="M 114 0 L 149 49" stroke="#00f0ff" stroke-width="1" stroke-dasharray="3 2" opacity="0.8"/>
-  
-  <!-- Right Lanyard Strap (Fita) -->
-  <path d="M 218 0 L 200 0 L 168 48 L 183 50 Z" fill="url(#lanyardRibbon)"/>
-  <path d="M 216 0 L 181 49" stroke="#00f0ff" stroke-width="1" stroke-dasharray="3 2" opacity="0.8"/>
+  <!-- LEFT SIDE: HANGING LANYARD ID CARD (MATCHING USER UPLOADED PHOTO EXACTLY) -->
+  <g class="swing-card">
+    <!-- Single Vertical Fabric Strap (Phita) -->
+    <rect x="151" y="0" width="28" height="42" fill="#1e3a8a"/>
+    <path d="M 153 0 L 153 42 M 177 0 L 177 42" stroke="#00f0ff" stroke-width="1.2" stroke-dasharray="3 2" opacity="0.8"/>
+    <rect x="159" y="0" width="12" height="42" fill="#2563eb" opacity="0.3"/>
 
-  <!-- Lanyard Neck Strap Text / Pattern -->
-  <g fill="#ffffff" font-family="'Courier New', monospace" font-size="7" font-weight="bold" opacity="0.85">
-    <text transform="translate(132, 22) rotate(58)">KMBB ENGG</text>
-    <text transform="translate(196, 22) rotate(-58)">STUDENT ID</text>
-  </g>
+    <!-- Metallic Clamp Sleeve around Ribbon -->
+    <rect x="147" y="28" width="36" height="12" rx="2" fill="url(#metalChrome)" stroke="#1e293b" stroke-width="1"/>
+    <line x1="152" y1="34" x2="178" y2="34" stroke="#475569" stroke-width="1"/>
 
-  <!-- Lanyard Metal Swivel Clamp & Hook Assembly -->
-  <g transform="translate(165, 48)">
-    <!-- Metal Clamp Sleeve -->
-    <rect x="-10" y="-3" width="20" height="8" rx="2" fill="url(#metalChrome)" stroke="#1e293b" stroke-width="1"/>
-    <!-- Swivel D-Ring -->
-    <path d="M -8 5 Q 0 0 8 5 L 6 12 Q 0 16 -6 12 Z" fill="url(#metalChrome)" stroke="#0f172a" stroke-width="1"/>
-    <!-- Metal Hook Clip -->
-    <path d="M -5 12 L 5 12 L 6 26 L 0 32 L -6 26 Z" fill="url(#metalChrome)" stroke="#334155" stroke-width="1"/>
-    <circle cx="0" cy="19" r="2.5" fill="#070b16"/>
-  </g>
+    <!-- Outer White Plastic Holder Frame (Matching User Photo) -->
+    <rect x="50" y="40" width="230" height="320" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="2.5"/>
+    <rect x="52" y="42" width="226" height="316" rx="22" fill="none" stroke="#e2e8f0" stroke-width="1.5"/>
 
-  <!-- HANGING ADMIT CARD (SWINGING PENDULUM) -->
-  <g class="swing-card" transform="translate(50, 74)">
-    <g clip-path="url(#cardClip)">
-      <clipPath id="cardClip"><rect width="230" height="286" rx="16"/></clipPath>
-      <rect width="230" height="286" rx="16" fill="#0d1527" stroke="#247bff" stroke-width="2"/>
-      
-      <!-- Admit Card Top Lanyard Slot (Badge Hole & Grommet) -->
-      <rect x="93" y="5" width="44" height="14" rx="7" fill="url(#metalChrome)"/>
-      <rect x="96" y="7" width="38" height="10" rx="5" fill="#070b16" stroke="#00f0ff" stroke-width="1.2"/>
-      
-      <rect y="22" width="230" height="42" fill="#247bff"/>
-      <text x="115" y="40" class="font-mono" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="1">STUDENT IDENTITY PASSPORT</text>
-      <text x="115" y="54" class="font-mono" font-size="9" font-weight="bold" fill="#00f0ff" text-anchor="middle">KMBB COLLEGE OF ENGG (BPUT)</text>
+    <!-- Top Horizontal Slot Opening in Plastic Holder (Matching User Photo) -->
+    <rect x="132" y="52" width="66" height="14" rx="7" fill="#070b16" stroke="#94a3b8" stroke-width="1.5"/>
+    <rect x="151" y="40" width="28" height="20" rx="3" fill="#1e3a8a"/>
+
+    <!-- Inner ID Card Body -->
+    <g transform="translate(60, 74)">
+      <g clip-path="url(#cardClip)">
+        <clipPath id="cardClip"><rect width="210" height="272" rx="12"/></clipPath>
+        <rect width="210" height="272" rx="12" fill="#0d1527" stroke="#1e293b" stroke-width="1"/>
+        
+        <!-- Top Teal & Gold Header Banner (Matching User Photo) -->
+        <path d="M 0 12 Q 0 0 12 0 L 198 0 Q 210 0 210 12 L 210 52 L 0 52 Z" fill="#0891b2"/>
+        <polygon points="0,40 210,15 210,52 0,52" fill="#f59e0b" opacity="0.85"/>
+        <path d="M 0 35 L 210 48 L 210 52 L 0 52 Z" fill="#0e7490"/>
+
+        <!-- Header Title & College Name -->
+        <text x="105" y="20" class="font-mono" font-size="10" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="1">STUDENT ID CARD</text>
+        <text x="105" y="33" class="font-mono" font-size="8.5" font-weight="700" fill="#fef08a" text-anchor="middle">KMBB COLLEGE OF ENGG (BPUT)</text>
 
       <!-- User Photo -->
       <g transform="translate(65, 75)">
