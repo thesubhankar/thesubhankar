@@ -35,8 +35,14 @@
   <img src="./assets/07-education.svg?v=2" alt="🎓 Education" width="100%" />
 </p>
 
+<!-- GITHUB STATS HEADER SVG -->
 <p align="center">
-  <img src="./assets/08-github-stats.svg?v=3" alt="📊 GitHub Statistics" width="100%" />
+  <img src="./assets/08-github-stats.svg?v=4" alt="📊 GitHub Statistics" width="100%" />
+</p>
+<!-- DYNAMIC LIVE GITHUB STATS CARDS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thesubhankar&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" alt="Subhankar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesubhankar&layout=donut&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
