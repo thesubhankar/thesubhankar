@@ -18,9 +18,10 @@
     .font-mono { font-family: 'Courier New', Courier, monospace; }
     .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
 
-    @keyframes bar1 { 0% { width: 0%; } 33% { width: 100%; } 100% { width: 100%; } }
-    @keyframes bar2 { 0%, 33% { width: 0%; } 66% { width: 100%; } 100% { width: 100%; } }
-    @keyframes bar3 { 0%, 66% { width: 0%; } 100% { width: 100%; } }
+    /* Fixed Segmented Progress Bar Animations (width: 0px to 114px to prevent overlapping adjacent segments) */
+    @keyframes bar1 { 0% { width: 0px; } 33% { width: 114px; } 100% { width: 114px; } }
+    @keyframes bar2 { 0%, 33% { width: 0px; } 66% { width: 114px; } 100% { width: 114px; } }
+    @keyframes bar3 { 0%, 66% { width: 0px; } 100% { width: 114px; } }
 
     .p-bar-1 { animation: bar1 12s infinite linear; }
     .p-bar-2 { animation: bar2 12s infinite linear; }
@@ -89,8 +90,8 @@
   <g transform="translate(445, 30)">
     <text class="font-mono" font-size="11" font-weight="bold" fill="#ff354f" letter-spacing="1.5" x="0" y="14">🚀 INTERESTS &amp; EXPLORATIONS</text>
     
-    <!-- 3 Segment Progress Bars Header -->
-    <g transform="translate(0, 26)">
+    <!-- 3 Segment Progress Bars Header (Strict 114px Segment Bounds) -->
+    <g transform="translate(0, 28)">
       <rect x="0" y="0" width="114" height="6" rx="3" fill="#1e293b" />
       <rect class="p-bar-1" x="0" y="0" width="0" height="6" rx="3" fill="url(#progressGrad)" />
 
@@ -101,9 +102,9 @@
       <rect class="p-bar-3" x="252" y="0" width="0" height="6" rx="3" fill="url(#progressGrad)" />
     </g>
 
-    <!-- Carousel Content Box (370px Width, 28px Internal Left/Right Padding) -->
-    <g transform="translate(0, 48)">
-      <rect x="0" y="0" width="370" height="268" rx="14" fill="#0d1527" stroke="#247bff" stroke-opacity="0.3" />
+    <!-- Carousel Content Box -->
+    <g transform="translate(0, 50)">
+      <rect x="0" y="0" width="370" height="265" rx="14" fill="#0d1527" stroke="#247bff" stroke-opacity="0.3" />
 
       <!-- SLIDE 1 -->
       <g class="slide-1" transform="translate(0, 0)">
@@ -139,7 +140,7 @@
         </text>
       </g>
 
-      <!-- SLIDE 3 (Algorithmic Problem Solving - Responsive & Zero Clipping) -->
+      <!-- SLIDE 3 -->
       <g class="slide-3" transform="translate(0, 0)">
         <text class="font-sans" font-size="24" x="28" y="38">⚡</text>
         <text class="font-sans" font-size="15" font-weight="800" fill="#39ff14" x="28" y="66">Algorithmic Problem Solving</text>
