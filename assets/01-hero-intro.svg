@@ -10,8 +10,6 @@
   <style>
     .font-mono { font-family: 'Courier New', Courier, monospace; }
     .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
-    @keyframes cursorBlink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
-    .blink { animation: cursorBlink 0.8s infinite; }
     @keyframes f1 { 0%, 22% { opacity: 1; } 25%, 97% { opacity: 0; } }
     @keyframes f2 { 0%, 22% { opacity: 0; } 25%, 47% { opacity: 1; } 50%, 100% { opacity: 0; } }
     @keyframes f3 { 0%, 47% { opacity: 0; } 50%, 72% { opacity: 1; } 75%, 100% { opacity: 0; } }
@@ -24,7 +22,6 @@
   <g transform="translate(35, 30)">
     <rect width="180" height="26" rx="13" fill="#247bff" fill-opacity="0.15" stroke="#247bff" stroke-opacity="0.4"/>
     <text x="14" y="17" class="font-mono" font-size="11" font-weight="bold" fill="#00f0ff" letter-spacing="1.5">👋 HELLO WORLD, I'M</text>
-    <rect x="165" y="6" width="2" height="14" fill="#00f0ff" class="blink"/>
   </g>
   <g clip-path="url(#nR)">
     <text x="35" y="105" class="font-sans" font-size="38" font-weight="900" fill="url(#gT)" letter-spacing="1">SUBHANKAR GIRI</text>
