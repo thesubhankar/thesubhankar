@@ -40,10 +40,10 @@
 
   <!-- LEFT COLUMN: Core Capabilities -->
   <g transform="translate(35, 30)">
-    <text class="font-mono" font-size="11" font-weight="bold" fill="#00f0ff" letter-spacing="1.5">⚡ CORE CAPABILITIES &amp; SPECIALIZATIONS</text>
-    <text class="font-sans" font-size="20" font-weight="800" fill="#ffffff" y="28">Engineering Data &amp; AI Systems</text>
+    <text class="font-mono" font-size="11" font-weight="bold" fill="#00f0ff" letter-spacing="1.5" x="0" y="14">⚡ CORE CAPABILITIES &amp; SPECIALIZATIONS</text>
+    <text class="font-sans" font-size="20" font-weight="800" fill="#ffffff" x="0" y="40">Engineering Data &amp; AI Systems</text>
 
-    <g transform="translate(0, 45)">
+    <g transform="translate(0, 55)">
       <!-- Capability 1 -->
       <g transform="translate(0, 0)">
         <rect x="0" y="0" width="370" height="62" rx="10" fill="#1e293b" fill-opacity="0.7" stroke="#334155" />
@@ -87,10 +87,10 @@
 
   <!-- RIGHT COLUMN: 3-Slide Carousel -->
   <g transform="translate(460, 30)">
-    <text class="font-mono" font-size="11" font-weight="bold" fill="#ff354f" letter-spacing="1.5">🚀 INTERESTS &amp; EXPLORATIONS</text>
+    <text class="font-mono" font-size="11" font-weight="bold" fill="#ff354f" letter-spacing="1.5" x="0" y="14">🚀 INTERESTS &amp; EXPLORATIONS</text>
     
     <!-- 3 Segment Progress Bars Header -->
-    <g transform="translate(0, 22)">
+    <g transform="translate(0, 26)">
       <rect x="0" y="0" width="110" height="6" rx="3" fill="#1e293b" />
       <rect class="p-bar-1" x="0" y="0" width="0" height="6" rx="3" fill="url(#progressGrad)" />
 
@@ -102,20 +102,20 @@
     </g>
 
     <!-- Carousel Content Box -->
-    <g transform="translate(0, 45)">
-      <rect x="0" y="0" width="355" height="272" rx="14" fill="#0d1527" stroke="#247bff" stroke-opacity="0.3" />
+    <g transform="translate(0, 48)">
+      <rect x="0" y="0" width="355" height="265" rx="14" fill="#0d1527" stroke="#247bff" stroke-opacity="0.3" />
 
       <!-- SLIDE 1 -->
-      <g class="slide-1" transform="translate(22, 22)">
-        <text class="font-sans" font-size="26">🧠</text>
-        <text class="font-sans" font-size="17" font-weight="800" fill="#00f0ff" x="0" y="52">Deep Learning &amp; GenAI</text>
+      <g class="slide-1" transform="translate(24, 24)">
+        <text class="font-sans" font-size="26" x="0" y="26">🧠</text>
+        <text class="font-sans" font-size="17" font-weight="800" fill="#00f0ff" x="0" y="58">Deep Learning &amp; GenAI</text>
         
-        <text class="font-sans" font-size="12" fill="#cbd5e1" x="0" y="78">
+        <text class="font-sans" font-size="12" fill="#cbd5e1" x="0" y="86">
           <tspan x="0" dy="0">Exploring Neural Network Architectures, CNNs,</tspan>
           <tspan x="0" dy="18">and Transformer Models for Computer Vision.</tspan>
         </text>
 
-        <text class="font-sans" font-size="12" fill="#94a3b8" x="0" y="132">
+        <text class="font-sans" font-size="12" fill="#94a3b8" x="0" y="142">
           <tspan x="0" dy="0">• Text Embeddings &amp; LLM Finetuning</tspan>
           <tspan x="0" dy="20">• Retrieval-Augmented Generation (RAG)</tspan>
           <tspan x="0" dy="20">• Diffusion &amp; Generative AI Pipelines</tspan>
@@ -123,16 +123,16 @@
       </g>
 
       <!-- SLIDE 2 -->
-      <g class="slide-2" transform="translate(22, 22)">
-        <text class="font-sans" font-size="26">📊</text>
-        <text class="font-sans" font-size="17" font-weight="800" fill="#ff007f" x="0" y="52">Business Intelligence &amp; Analytics</text>
+      <g class="slide-2" transform="translate(24, 24)">
+        <text class="font-sans" font-size="26" x="0" y="26">📊</text>
+        <text class="font-sans" font-size="17" font-weight="800" fill="#ff007f" x="0" y="58">Business Intelligence &amp; Analytics</text>
         
-        <text class="font-sans" font-size="12" fill="#cbd5e1" x="0" y="78">
+        <text class="font-sans" font-size="12" fill="#cbd5e1" x="0" y="86">
           <tspan x="0" dy="0">Architecting automated data reporting pipelines and</tspan>
           <tspan x="0" dy="18">real-time executive decision portals.</tspan>
         </text>
 
-        <text class="font-sans" font-size="12" fill="#94a3b8" x="0" y="132">
+        <text class="font-sans" font-size="12" fill="#94a3b8" x="0" y="142">
           <tspan x="0" dy="0">• Microsoft Power BI &amp; Complex SQL Queries</tspan>
           <tspan x="0" dy="20">• Retail Churn AI &amp; ROI Simulators</tspan>
           <tspan x="0" dy="20">• Multi-page Interactive Streamlit Apps</tspan>
@@ -140,16 +140,16 @@
       </g>
 
       <!-- SLIDE 3 -->
-      <g class="slide-3" transform="translate(22, 22)">
-        <text class="font-sans" font-size="26">⚡</text>
-        <text class="font-sans" font-size="17" font-weight="800" fill="#39ff14" x="0" y="52">Algorithmic Problem Solving</text>
+      <g class="slide-3" transform="translate(24, 24)">
+        <text class="font-sans" font-size="26" x="0" y="26">⚡</text>
+        <text class="font-sans" font-size="17" font-weight="800" fill="#39ff14" x="0" y="58">Algorithmic Problem Solving</text>
         
-        <text class="font-sans" font-size="12" fill="#cbd5e1" x="0" y="78">
+        <text class="font-sans" font-size="12" fill="#cbd5e1" x="0" y="86">
           <tspan x="0" dy="0">Continuous algorithmic practice on competitive</tspan>
           <tspan x="0" dy="18">platforms and open-source contributions.</tspan>
         </text>
 
-        <text class="font-sans" font-size="12" fill="#94a3b8" x="0" y="132">
+        <text class="font-sans" font-size="12" fill="#94a3b8" x="0" y="142">
           <tspan x="0" dy="0">• LeetCode, CodeChef, &amp; GeeksforGeeks</tspan>
           <tspan x="0" dy="20">• 40+ Contributions across GitHub Repos</tspan>
           <tspan x="0" dy="20">• Data Structures &amp; Optimization</tspan>
