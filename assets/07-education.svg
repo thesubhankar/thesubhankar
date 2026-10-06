@@ -11,28 +11,50 @@
   <style>
     .font-mono { font-family: 'Courier New', Courier, monospace; }
     .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
-    @keyframes pendulumSwing { 0% { transform: rotate(-1.5deg); } 50% { transform: rotate(1.5deg); } 100% { transform: rotate(-1.5deg); } }
-    .swing-card { transform-origin: 165px 45px; animation: pendulumSwing 5s infinite ease-in-out; }
+    @keyframes pendulumSwing { 0% { transform: rotate(-2.5deg); } 50% { transform: rotate(2.5deg); } 100% { transform: rotate(-2.5deg); } }
+    .swing-card { transform-origin: 165px 50px; animation: pendulumSwing 4.5s infinite ease-in-out; }
     @keyframes sweep { 0% { transform: translateX(-200px) translateY(-200px); } 100% { transform: translateX(300px) translateY(300px); } }
     .light-foil { animation: sweep 6s infinite linear; }
   </style>
 
   <rect x="2" y="2" width="846" height="376" rx="16" fill="url(#gBg)" stroke="url(#gB)" stroke-width="2"/>
 
-  <!-- LEFT SIDE: LANYARD ID CARD -->
-  <path d="M 148 0 L 155 45 L 165 45 L 158 0 Z" fill="url(#lanyardRibbon)"/>
-  <path d="M 182 0 L 175 45 L 165 45 L 172 0 Z" fill="url(#lanyardRibbon)"/>
-  <g transform="translate(165, 40)">
-    <circle cx="0" cy="0" r="9" fill="none" stroke="url(#metalChrome)" stroke-width="3"/>
-    <rect x="-6" y="7" width="12" height="12" rx="2" fill="url(#metalChrome)"/>
-    <path d="M -4 19 L 4 19 L 7 28 L -7 28 Z" fill="url(#metalChrome)"/>
+  <!-- LEFT SIDE: REALISTIC ADMIT CARD LANYARD RIBBON (FITA) & HANGING CLIP -->
+  <!-- Left Lanyard Strap (Fita) -->
+  <path d="M 112 0 L 130 0 L 162 48 L 147 50 Z" fill="url(#lanyardRibbon)"/>
+  <path d="M 114 0 L 149 49" stroke="#00f0ff" stroke-width="1" stroke-dasharray="3 2" opacity="0.8"/>
+  
+  <!-- Right Lanyard Strap (Fita) -->
+  <path d="M 218 0 L 200 0 L 168 48 L 183 50 Z" fill="url(#lanyardRibbon)"/>
+  <path d="M 216 0 L 181 49" stroke="#00f0ff" stroke-width="1" stroke-dasharray="3 2" opacity="0.8"/>
+
+  <!-- Lanyard Neck Strap Text / Pattern -->
+  <g fill="#ffffff" font-family="'Courier New', monospace" font-size="7" font-weight="bold" opacity="0.85">
+    <text transform="translate(132, 22) rotate(58)">KMBB ENGG</text>
+    <text transform="translate(196, 22) rotate(-58)">STUDENT ID</text>
   </g>
 
-  <g class="swing-card" transform="translate(50, 68)">
+  <!-- Lanyard Metal Swivel Clamp & Hook Assembly -->
+  <g transform="translate(165, 48)">
+    <!-- Metal Clamp Sleeve -->
+    <rect x="-10" y="-3" width="20" height="8" rx="2" fill="url(#metalChrome)" stroke="#1e293b" stroke-width="1"/>
+    <!-- Swivel D-Ring -->
+    <path d="M -8 5 Q 0 0 8 5 L 6 12 Q 0 16 -6 12 Z" fill="url(#metalChrome)" stroke="#0f172a" stroke-width="1"/>
+    <!-- Metal Hook Clip -->
+    <path d="M -5 12 L 5 12 L 6 26 L 0 32 L -6 26 Z" fill="url(#metalChrome)" stroke="#334155" stroke-width="1"/>
+    <circle cx="0" cy="19" r="2.5" fill="#070b16"/>
+  </g>
+
+  <!-- HANGING ADMIT CARD (SWINGING PENDULUM) -->
+  <g class="swing-card" transform="translate(50, 74)">
     <g clip-path="url(#cardClip)">
-      <clipPath id="cardClip"><rect width="230" height="290" rx="16"/></clipPath>
-      <rect width="230" height="290" rx="16" fill="#0d1527" stroke="#247bff" stroke-width="2"/>
-      <ellipse cx="115" cy="12" rx="12" ry="4" fill="#070b16" stroke="#334155" stroke-width="1.5"/>
+      <clipPath id="cardClip"><rect width="230" height="286" rx="16"/></clipPath>
+      <rect width="230" height="286" rx="16" fill="#0d1527" stroke="#247bff" stroke-width="2"/>
+      
+      <!-- Admit Card Top Lanyard Slot (Badge Hole & Grommet) -->
+      <rect x="93" y="5" width="44" height="14" rx="7" fill="url(#metalChrome)"/>
+      <rect x="96" y="7" width="38" height="10" rx="5" fill="#070b16" stroke="#00f0ff" stroke-width="1.2"/>
+      
       <rect y="22" width="230" height="42" fill="#247bff"/>
       <text x="115" y="40" class="font-mono" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="1">STUDENT IDENTITY PASSPORT</text>
       <text x="115" y="54" class="font-mono" font-size="9" font-weight="bold" fill="#00f0ff" text-anchor="middle">KMBB COLLEGE OF ENGG (BPUT)</text>

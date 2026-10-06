@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/07-education.svg?v=20" alt="🎓 Education" width="100%" />
+  <img src="./assets/07-education.svg?v=21" alt="🎓 Education" width="100%" />
 </p>
 
 <!-- GITHUB STATS HEADER SVG -->
