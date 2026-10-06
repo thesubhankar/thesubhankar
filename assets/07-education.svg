@@ -19,7 +19,7 @@
 
   <rect x="2" y="2" width="846" height="376" rx="16" fill="url(#gBg)" stroke="url(#gB)" stroke-width="2"/>
 
-  <!-- LEFT SIDE: HANGING LANYARD ID CARD (SQUARE USER PHOTO & MODERN FRONT STYLING) -->
+  <!-- LEFT SIDE: HANGING LANYARD ID CARD (SINGLE SOLID COLOR HEADER BANNER) -->
   <g class="swing-card">
     <!-- Single Vertical Fabric Strap (Phita) -->
     <rect x="151" y="0" width="28" height="42" fill="#1e3a8a"/>
@@ -42,14 +42,12 @@
     <g transform="translate(60, 74)">
       <rect width="210" height="272" rx="12" fill="#0d1527" stroke="#1e293b" stroke-width="1"/>
       
-      <!-- Top Teal & Gold Header Banner -->
-      <path d="M 0 12 Q 0 0 12 0 L 198 0 Q 210 0 210 12 L 210 50 L 0 50 Z" fill="#0891b2"/>
-      <polygon points="0,38 210,14 210,50 0,50" fill="#f59e0b" opacity="0.85"/>
-      <path d="M 0 34 L 210 46 L 210 50 L 0 50 Z" fill="#0e7490"/>
+      <!-- Single Solid Color Header Banner (No mixed colors) -->
+      <path d="M 0 12 Q 0 0 12 0 L 198 0 Q 210 0 210 12 L 210 50 L 0 50 Z" fill="#1e3b8a"/>
 
       <!-- Header Title & College Name -->
-      <text x="105" y="19" class="font-mono" font-size="10" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="1">STUDENT ID CARD</text>
-      <text x="105" y="32" class="font-mono" font-size="8.5" font-weight="700" fill="#fef08a" text-anchor="middle">KMBB COLLEGE OF ENGG (BPUT)</text>
+      <text x="105" y="20" class="font-mono" font-size="10" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="1">STUDENT ID CARD</text>
+      <text x="105" y="34" class="font-mono" font-size="8.5" font-weight="700" fill="#00f0ff" text-anchor="middle">KMBB COLLEGE OF ENGG (BPUT)</text>
 
       <!-- Student Photo Frame (Square Photo Frame with rounded corners) -->
       <g transform="translate(63, 56)">
