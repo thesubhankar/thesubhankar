@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/02-about-me.svg?v=2" alt="🎯 About Me" width="100%" />
+  <img src="./assets/02-about-me.svg?v=3" alt="🎯 About Me" width="100%" />
 </p>
 
 <p align="center">

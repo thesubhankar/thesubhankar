@@ -8,14 +8,44 @@
     .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
   </style>
   <rect x="2" y="2" width="846" height="196" rx="16" fill="url(#gBg)" stroke="url(#gB)" stroke-width="2"/>
-  <g transform="translate(35, 25)">
+  
+  <!-- LEFT COLUMN: ABOUT INTRO -->
+  <g transform="translate(35, 24)">
     <text class="font-mono" font-size="12" font-weight="bold" fill="#00f0ff" letter-spacing="1.5" x="0" y="14">🎯 ABOUT ME</text>
-    <text class="font-sans" font-size="18" font-weight="800" fill="#ffffff" x="0" y="40">Transforming Raw Data into Strategic Decision Engines</text>
-    <text class="font-sans" font-size="12.5" fill="#cbd5e1" x="0" y="66">
-      <tspan x="0" dy="0">A passionate Data Scientist &amp; AI/ML Engineer with a strong foundation in Predictive Analytics,</tspan>
-      <tspan x="0" dy="20">Machine Learning Systems, &amp; Big Data Engineering. Currently pursuing B.Tech CSE, I specialize</tspan>
-      <tspan x="0" dy="20">in architecting high-accuracy ML models and multi-page interactive Streamlit executive decision</tspan>
-      <tspan x="0" dy="20">portals to solve complex real-world data challenges.</tspan>
+    <text class="font-sans" font-size="16" font-weight="800" fill="#ffffff" x="0" y="38">Transforming Data into Decision Engines</text>
+    <text class="font-sans" font-size="11.5" fill="#cbd5e1" x="0" y="60">
+      <tspan x="0" dy="0">A passionate Data Scientist &amp; AI/ML Engineer with a strong</tspan>
+      <tspan x="0" dy="18">foundation in Predictive Analytics, Machine Learning Systems, &amp;</tspan>
+      <tspan x="0" dy="18">Big Data Engineering. Pursuing B.Tech CSE, I specialize</tspan>
+      <tspan x="0" dy="18">in architecting high-accuracy ML models and multi-page</tspan>
+      <tspan x="0" dy="18">Streamlit executive decision portals.</tspan>
     </text>
+  </g>
+
+  <!-- RIGHT COLUMN: 3 KEY HIGHLIGHT CARDS -->
+  <g transform="translate(525, 26)">
+    <!-- Card 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="285" height="42" rx="8" fill="#1e293b" fill-opacity="0.8" stroke="#247bff" stroke-width="1.5"/>
+      <text x="14" y="26" class="font-sans" font-size="16">🧠</text>
+      <text x="42" y="19" class="font-sans" font-size="11" font-weight="700" fill="#00f0ff">AI/ML &amp; Deep Learning</text>
+      <text x="42" y="33" class="font-sans" font-size="9.5" fill="#94a3b8">Model Training &amp; Neural Nets</text>
+    </g>
+
+    <!-- Card 2 -->
+    <g transform="translate(0, 50)">
+      <rect width="285" height="42" rx="8" fill="#1e293b" fill-opacity="0.8" stroke="#ff007f" stroke-width="1.5"/>
+      <text x="14" y="26" class="font-sans" font-size="16">📊</text>
+      <text x="42" y="19" class="font-sans" font-size="11" font-weight="700" fill="#ff007f">Predictive Analytics &amp; BI</text>
+      <text x="42" y="33" class="font-sans" font-size="9.5" fill="#94a3b8">Data Pipelines &amp; Dashboards</text>
+    </g>
+
+    <!-- Card 3 -->
+    <g transform="translate(0, 100)">
+      <rect width="285" height="42" rx="8" fill="#1e293b" fill-opacity="0.8" stroke="#39ff14" stroke-width="1.5"/>
+      <text x="14" y="26" class="font-sans" font-size="16">⚡</text>
+      <text x="42" y="19" class="font-sans" font-size="11" font-weight="700" fill="#39ff14">Full-Stack Streamlit AI</text>
+      <text x="42" y="33" class="font-sans" font-size="9.5" fill="#94a3b8">Interactive Executive Portals</text>
+    </g>
   </g>
 </svg>
