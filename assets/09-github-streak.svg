@@ -1,36 +1,14 @@
-<svg width="100%" height="auto" viewBox="0 0 850 200" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="auto" viewBox="0 0 850 60" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="gB" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff007f"/><stop offset="100%" stop-color="#ff9900"/></linearGradient>
     <linearGradient id="gBg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#070b16"/><stop offset="100%" stop-color="#0f172a"/></linearGradient>
   </defs>
   <style>
     .font-mono { font-family: 'Courier New', Courier, monospace; }
-    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
   </style>
-  <rect x="2" y="2" width="846" height="196" rx="16" fill="url(#gBg)" stroke="url(#gB)" stroke-width="2"/>
-  <g transform="translate(35, 25)">
-    <text class="font-mono" font-size="12" font-weight="bold" fill="#ff007f" letter-spacing="1.5" x="0" y="14">🔥 GITHUB CONTRIBUTION STREAK</text>
-    <g transform="translate(0, 32)">
-      <g transform="translate(0, 0)">
-        <rect width="246" height="100" rx="10" fill="#1e293b" stroke="#ff007f"/>
-        <text x="20" y="28" class="font-sans" font-size="18">⚡</text>
-        <text x="20" y="50" class="font-sans" font-size="11" font-weight="bold" fill="#94a3b8">TOTAL CONTRIBUTIONS</text>
-        <text x="20" y="78" class="font-sans" font-size="24" font-weight="900" fill="#ff007f">50+ Contributions</text>
-      </g>
-
-      <g transform="translate(267, 0)">
-        <rect width="246" height="100" rx="10" fill="#1e293b" stroke="#ff9900"/>
-        <text x="20" y="28" class="font-sans" font-size="18">🔥</text>
-        <text x="20" y="50" class="font-sans" font-size="11" font-weight="bold" fill="#94a3b8">CURRENT STREAK</text>
-        <text x="20" y="78" class="font-sans" font-size="24" font-weight="900" fill="#ff9900">Active Coding</text>
-      </g>
-
-      <g transform="translate(534, 0)">
-        <rect width="246" height="100" rx="10" fill="#1e293b" stroke="#39ff14"/>
-        <text x="20" y="28" class="font-sans" font-size="18">🏆</text>
-        <text x="20" y="50" class="font-sans" font-size="11" font-weight="bold" fill="#94a3b8">LONGEST STREAK</text>
-        <text x="20" y="78" class="font-sans" font-size="24" font-weight="900" fill="#39ff14">Consistent Habit</text>
-      </g>
-    </g>
+  
+  <rect x="2" y="2" width="846" height="56" rx="14" fill="url(#gBg)" stroke="url(#gB)" stroke-width="2"/>
+  <g transform="translate(35, 20)">
+    <text class="font-mono" font-size="13" font-weight="bold" fill="#ff007f" letter-spacing="1.5" x="0" y="14">🔥 GITHUB CONTRIBUTION STREAK &amp; ACTIVITY GRAPH</text>
   </g>
 </svg>

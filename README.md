@@ -45,8 +45,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesubhankar&layout=donut&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<!-- GITHUB STREAK HEADER SVG -->
 <p align="center">
   <img src="./assets/09-github-streak.svg?v=10" alt="🔥 GitHub Contribution Streak" width="100%" />
+</p>
+<!-- DYNAMIC LIVE GITHUB STREAK & ACTIVITY GRAPH CARDS -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=thesubhankar&theme=tokyonight" alt="Subhankar's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesubhankar&theme=tokyo-night" alt="Subhankar's Activity Graph" width="100%" />
 </p>
 
 <p align="center">
