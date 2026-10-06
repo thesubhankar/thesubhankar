@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/08-github-stats.svg?v=2" alt="📊 GitHub Statistics" width="100%" />
+  <img src="./assets/08-github-stats.svg?v=3" alt="📊 GitHub Statistics" width="100%" />
 </p>
 
 <p align="center">
