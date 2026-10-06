@@ -39,7 +39,7 @@
 <p align="center">
   <img src="./assets/08-github-stats.svg?v=20" alt="📊 GitHub Statistics" width="100%" />
 </p>
-<!-- DYNAMIC LIVE GITHUB STATS CARDS (ENLARGED & WIDE) -->
+<!-- DYNAMIC LIVE GITHUB STATS CARDS -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thesubhankar&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" width="49.5%" alt="Subhankar's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesubhankar&layout=donut&theme=tokyonight" width="49.5%" alt="Top Languages" />
@@ -49,12 +49,15 @@
 <p align="center">
   <img src="./assets/09-github-streak.svg?v=20" alt="🔥 GitHub Contribution Streak" width="100%" />
 </p>
-<!-- DYNAMIC LIVE GITHUB STREAK & ACTIVITY GRAPH CARDS (ENLARGED FULL WIDTH) -->
+<!-- DYNAMIC LIVE GITHUB STREAK & HIGH-RELIABILITY ACTIVITY GRAPH CARDS -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=thesubhankar&theme=tokyonight" width="100%" alt="Subhankar's GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesubhankar&theme=tokyo-night" width="100%" alt="Subhankar's Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesubhankar&theme=tokyonight" width="100%" alt="Subhankar's Activity Profile Details" />
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/00f0ff/thesubhankar" width="100%" alt="Subhankar's Contribution Heatmap" />
 </p>
 
 <p align="center">
