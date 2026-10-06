@@ -47,7 +47,7 @@
 
 <!-- GITHUB STREAK HEADER SVG -->
 <p align="center">
-  <img src="./assets/09-github-streak.svg?v=20" alt="🔥 GitHub Contribution Streak" width="100%" />
+  <img src="./assets/09-github-streak.svg?v=21" alt="🔥 GitHub Contribution Streak" width="100%" />
 </p>
 <!-- DYNAMIC LIVE GITHUB STREAK & EXACT LINE-GRAPH ACTIVITY CHART MATCHING USER PHOTO -->
 <p align="center">
