@@ -1,6 +1,6 @@
 <!-- 12 DEDICATED SVG SECTIONS -->
 <p align="center">
-  <img src="./assets/01-hero-intro.svg?v=20261007_02" alt="👋 Hi, I'm Subhankar Giri" width="100%" />
+  <img src="./assets/01-hero-intro.svg?v=20261007_03" alt="👋 Hi, I'm Subhankar Giri" width="100%" />
 </p>
 
 <p align="center">
