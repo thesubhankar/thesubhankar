@@ -18,23 +18,23 @@
 
 <!-- PLAYBOOK IMAGE WIRING -->
 <p align="center">
-  <img src="./assets/hero.svg?v=2" alt="Subhankar Giri - Hero Intro" width="100%" />
+  <img src="./assets/hero.svg?v=3" alt="Subhankar Giri - Hero Intro" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/about-life.svg?v=2" alt="Subhankar Giri - Capabilities & Life Interests" width="100%" />
+  <img src="./assets/about-life.svg?v=3" alt="Subhankar Giri - Capabilities & Life Interests" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg?v=2" alt="Subhankar Giri - Orbital Tech Stack System" width="100%" />
+  <img src="./assets/stack.svg?v=3" alt="Subhankar Giri - Orbital Tech Stack System" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/id-dashboard.svg?v=2" alt="Subhankar Giri - Developer ID & Metrics Dashboard" width="100%" />
+  <img src="./assets/id-dashboard.svg?v=3" alt="Subhankar Giri - Developer ID & Metrics Dashboard" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/connect.svg?v=2" alt="Subhankar Giri - Connect & Network Cards" width="100%" />
+  <img src="./assets/connect.svg?v=3" alt="Subhankar Giri - Connect & Network Cards" width="100%" />
 </p>
 
 ---
