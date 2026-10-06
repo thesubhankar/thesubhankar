@@ -1,22 +1,22 @@
 <!-- 12 DEDICATED SVG SECTIONS -->
 <p align="center">
-  <img src="./assets/01-hero-intro.svg?v=10" alt="👋 Hi, I'm Subhankar Giri" width="100%" />
+  <img src="./assets/01-hero-intro.svg?v=20" alt="👋 Hi, I'm Subhankar Giri" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/02-about-me.svg?v=10" alt="🎯 About Me" width="100%" />
+  <img src="./assets/02-about-me.svg?v=20" alt="🎯 About Me" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/03-technical-skills.svg?v=10" alt="💻 Technical Skills" width="100%" />
+  <img src="./assets/03-technical-skills.svg?v=20" alt="💻 Technical Skills" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/04-currently-learning.svg?v=10" alt="🧠 Currently Learning" width="100%" />
+  <img src="./assets/04-currently-learning.svg?v=20" alt="🧠 Currently Learning" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/05-featured-projects.svg?v=10" alt="🚀 Featured Projects" width="100%" />
+  <img src="./assets/05-featured-projects.svg?v=20" alt="🚀 Featured Projects" width="100%" />
 </p>
 <p align="center">
   <a href="https://thiranex-internship-njtpmctjcmcphu6hywitxa.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/📌_Thiranex-Live_App-00f0ff?style=for-the-badge&logo=streamlit&logoColor=black"/></a>
@@ -28,37 +28,37 @@
 </p>
 
 <p align="center">
-  <img src="./assets/06-certifications.svg?v=10" alt="🏆 Certifications" width="100%" />
+  <img src="./assets/06-certifications.svg?v=20" alt="🏆 Certifications" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/07-education.svg?v=10" alt="🎓 Education" width="100%" />
+  <img src="./assets/07-education.svg?v=20" alt="🎓 Education" width="100%" />
 </p>
 
 <!-- GITHUB STATS HEADER SVG -->
 <p align="center">
-  <img src="./assets/08-github-stats.svg?v=10" alt="📊 GitHub Statistics" width="100%" />
+  <img src="./assets/08-github-stats.svg?v=20" alt="📊 GitHub Statistics" width="100%" />
 </p>
-<!-- DYNAMIC LIVE GITHUB STATS CARDS -->
+<!-- DYNAMIC LIVE GITHUB STATS CARDS (ENLARGED & WIDE) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thesubhankar&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" alt="Subhankar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesubhankar&layout=donut&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thesubhankar&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" width="49.5%" alt="Subhankar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesubhankar&layout=donut&theme=tokyonight" width="49.5%" alt="Top Languages" />
 </p>
 
 <!-- GITHUB STREAK HEADER SVG -->
 <p align="center">
-  <img src="./assets/09-github-streak.svg?v=10" alt="🔥 GitHub Contribution Streak" width="100%" />
+  <img src="./assets/09-github-streak.svg?v=20" alt="🔥 GitHub Contribution Streak" width="100%" />
 </p>
-<!-- DYNAMIC LIVE GITHUB STREAK & ACTIVITY GRAPH CARDS -->
+<!-- DYNAMIC LIVE GITHUB STREAK & ACTIVITY GRAPH CARDS (ENLARGED FULL WIDTH) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thesubhankar&theme=tokyonight" alt="Subhankar's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=thesubhankar&theme=tokyonight" width="100%" alt="Subhankar's GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesubhankar&theme=tokyo-night" alt="Subhankar's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesubhankar&theme=tokyo-night" width="100%" alt="Subhankar's Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="./assets/10-connect.svg?v=10" alt="📫 Connect With Me" width="100%" />
+  <img src="./assets/10-connect.svg?v=20" alt="📫 Connect With Me" width="100%" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/subhankar-giri-2a4b0a295" target="_blank">
@@ -79,9 +79,9 @@
 </p>
 
 <p align="center">
-  <img src="./assets/11-fun-facts-hobbies.svg?v=10" alt="⚡ Fun Fact / Hobbies" width="100%" />
+  <img src="./assets/11-fun-facts-hobbies.svg?v=20" alt="⚡ Fun Fact / Hobbies" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/12-quote.svg?v=10" alt="💬 Quote" width="100%" />
+  <img src="./assets/12-quote.svg?v=20" alt="💬 Quote" width="100%" />
 </p>
