@@ -16,7 +16,7 @@
       <!-- Card 1: Programming -->
       <g transform="translate(0, 0)">
         <rect width="380" height="64" rx="10" fill="#1e293b" fill-opacity="0.8" stroke="#247bff" stroke-width="1.5"/>
-        <text x="14" y="22" class="font-sans" font-size="11.5" font-weight="700" fill="#00f0ff">🐍 Programming</text>
+        <text x="14" y="22" class="font-sans" font-size="11.5" font-weight="700" fill="#00f0ff">💻 Programming</text>
         <g transform="translate(14, 34)">
           <rect x="0" width="60" height="20" rx="10" fill="#3776AB"/>
           <text x="30" y="13.5" class="font-sans" font-size="9.5" font-weight="bold" fill="#fff" text-anchor="middle">Python</text>
