@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/03-technical-skills.svg?v=2" alt="💻 Technical Skills" width="100%" />
+  <img src="./assets/03-technical-skills.svg?v=3" alt="💻 Technical Skills" width="100%" />
 </p>
 
 <p align="center">
