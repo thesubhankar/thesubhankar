@@ -12,22 +12,31 @@
     <text class="font-mono" font-size="12" font-weight="bold" fill="#00f0ff" letter-spacing="1.5" x="0" y="14">⚡ FUN FACT &amp; HOBBIES</text>
     <g transform="translate(0, 30)">
       <g transform="translate(0, 0)">
-        <rect width="246" height="90" rx="10" fill="#1e293b" stroke="#00f0ff"/>
+        <rect width="246" height="95" rx="10" fill="#1e293b" stroke="#00f0ff"/>
         <text x="15" y="24" class="font-sans" font-size="16">⚡</text>
         <text x="15" y="44" class="font-sans" font-size="12" font-weight="700" fill="#00f0ff">Interactive AI Portals</text>
-        <text x="15" y="62" class="font-sans" font-size="10" fill="#cbd5e1">I turn raw data into strategic financial insights &amp; web apps!</text>
+        <text x="15" y="62" class="font-sans" font-size="10" fill="#cbd5e1">
+          <tspan x="15" dy="0">I turn raw data into strategic</tspan>
+          <tspan x="15" dy="14">financial insights &amp; web apps!</tspan>
+        </text>
       </g>
       <g transform="translate(267, 0)">
-        <rect width="246" height="90" rx="10" fill="#1e293b" stroke="#ff007f"/>
+        <rect width="246" height="95" rx="10" fill="#1e293b" stroke="#ff007f"/>
         <text x="15" y="24" class="font-sans" font-size="16">🧠</text>
         <text x="15" y="44" class="font-sans" font-size="12" font-weight="700" fill="#ff007f">Algorithmic Coding</text>
-        <text x="15" y="62" class="font-sans" font-size="10" fill="#cbd5e1">Passionate about solving complex problems on LeetCode &amp; CodeChef.</text>
+        <text x="15" y="62" class="font-sans" font-size="10" fill="#cbd5e1">
+          <tspan x="15" dy="0">Passionate about solving complex</tspan>
+          <tspan x="15" dy="14">problems on LeetCode &amp; CodeChef.</tspan>
+        </text>
       </g>
       <g transform="translate(534, 0)">
-        <rect width="246" height="90" rx="10" fill="#1e293b" stroke="#39ff14"/>
+        <rect width="246" height="95" rx="10" fill="#1e293b" stroke="#39ff14"/>
         <text x="15" y="24" class="font-sans" font-size="16">🚀</text>
         <text x="15" y="44" class="font-sans" font-size="12" font-weight="700" fill="#39ff14">Open Source &amp; ML</text>
-        <text x="15" y="62" class="font-sans" font-size="10" fill="#cbd5e1">Building &amp; deploying 5+ full-stack data science web applications.</text>
+        <text x="15" y="62" class="font-sans" font-size="10" fill="#cbd5e1">
+          <tspan x="15" dy="0">Building &amp; deploying 5+ full-stack</tspan>
+          <tspan x="15" dy="14">data science web applications.</tspan>
+        </text>
       </g>
     </g>
   </g>

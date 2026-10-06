@@ -18,51 +18,51 @@
 
 <!-- 12 DEDICATED SVG SECTIONS -->
 <p align="center">
-  <img src="./assets/01-hero-intro.svg?v=1" alt="👋 Hi, I'm Subhankar Giri" width="100%" />
+  <img src="./assets/01-hero-intro.svg?v=2" alt="👋 Hi, I'm Subhankar Giri" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/02-about-me.svg?v=1" alt="🎯 About Me" width="100%" />
+  <img src="./assets/02-about-me.svg?v=2" alt="🎯 About Me" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/03-technical-skills.svg?v=1" alt="💻 Technical Skills" width="100%" />
+  <img src="./assets/03-technical-skills.svg?v=2" alt="💻 Technical Skills" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/04-currently-learning.svg?v=1" alt="🧠 Currently Learning" width="100%" />
+  <img src="./assets/04-currently-learning.svg?v=2" alt="🧠 Currently Learning" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/05-featured-projects.svg?v=1" alt="🚀 Featured Projects" width="100%" />
+  <img src="./assets/05-featured-projects.svg?v=2" alt="🚀 Featured Projects" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/06-certifications.svg?v=1" alt="🏆 Certifications" width="100%" />
+  <img src="./assets/06-certifications.svg?v=2" alt="🏆 Certifications" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/07-education.svg?v=1" alt="🎓 Education" width="100%" />
+  <img src="./assets/07-education.svg?v=2" alt="🎓 Education" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/08-github-stats.svg?v=1" alt="📊 GitHub Statistics" width="100%" />
+  <img src="./assets/08-github-stats.svg?v=2" alt="📊 GitHub Statistics" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/09-github-streak.svg?v=1" alt="🔥 GitHub Contribution Streak" width="100%" />
+  <img src="./assets/09-github-streak.svg?v=2" alt="🔥 GitHub Contribution Streak" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/10-connect.svg?v=1" alt="📫 Connect With Me" width="100%" />
+  <img src="./assets/10-connect.svg?v=2" alt="📫 Connect With Me" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/11-fun-facts-hobbies.svg?v=1" alt="⚡ Fun Fact / Hobbies" width="100%" />
+  <img src="./assets/11-fun-facts-hobbies.svg?v=2" alt="⚡ Fun Fact / Hobbies" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/12-quote.svg?v=1" alt="💬 Quote" width="100%" />
+  <img src="./assets/12-quote.svg?v=2" alt="💬 Quote" width="100%" />
 </p>
 
 ---

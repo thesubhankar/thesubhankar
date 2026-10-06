@@ -12,31 +12,47 @@
     <text class="font-mono" font-size="12" font-weight="bold" fill="#00f0ff" letter-spacing="1.5" x="0" y="14">🧠 CURRENTLY LEARNING &amp; EXPLORING</text>
     <g transform="translate(0, 32)">
       <g transform="translate(0, 0)">
-        <rect width="180" height="120" rx="12" fill="#1e293b" fill-opacity="0.7" stroke="#247bff"/>
-        <text x="20" y="32" class="font-sans" font-size="20">🧠</text>
-        <text x="20" y="58" class="font-sans" font-size="13" font-weight="700" fill="#00f0ff">Deep Learning</text>
-        <text x="20" y="78" class="font-sans" font-size="11" fill="#cbd5e1">• Neural Networks<br/>• CNNs &amp; LSTMs<br/>• Transformers</text>
+        <rect width="180" height="125" rx="12" fill="#1e293b" fill-opacity="0.7" stroke="#247bff"/>
+        <text x="20" y="30" class="font-sans" font-size="20">🧠</text>
+        <text x="20" y="54" class="font-sans" font-size="13" font-weight="700" fill="#00f0ff">Deep Learning</text>
+        <text x="20" y="74" class="font-sans" font-size="11" fill="#cbd5e1">
+          <tspan x="20" dy="0">• Neural Networks</tspan>
+          <tspan x="20" dy="16">• CNNs &amp; LSTMs</tspan>
+          <tspan x="20" dy="16">• Transformers</tspan>
+        </text>
       </g>
 
       <g transform="translate(198, 0)">
-        <rect width="180" height="120" rx="12" fill="#1e293b" fill-opacity="0.7" stroke="#ff007f"/>
-        <text x="20" y="32" class="font-sans" font-size="20">🗣️</text>
-        <text x="20" y="58" class="font-sans" font-size="13" font-weight="700" fill="#ff007f">NLP &amp; LLMs</text>
-        <text x="20" y="78" class="font-sans" font-size="11" fill="#cbd5e1">• Text Embeddings<br/>• LLM Finetuning<br/>• RAG Architecture</text>
+        <rect width="180" height="125" rx="12" fill="#1e293b" fill-opacity="0.7" stroke="#ff007f"/>
+        <text x="20" y="30" class="font-sans" font-size="20">🗣️</text>
+        <text x="20" y="54" class="font-sans" font-size="13" font-weight="700" fill="#ff007f">NLP &amp; LLMs</text>
+        <text x="20" y="74" class="font-sans" font-size="11" fill="#cbd5e1">
+          <tspan x="20" dy="0">• Text Embeddings</tspan>
+          <tspan x="20" dy="16">• LLM Finetuning</tspan>
+          <tspan x="20" dy="16">• RAG Architecture</tspan>
+        </text>
       </g>
 
       <g transform="translate(396, 0)">
-        <rect width="180" height="120" rx="12" fill="#1e293b" fill-opacity="0.7" stroke="#39ff14"/>
-        <text x="20" y="32" class="font-sans" font-size="20">⚡</text>
-        <text x="20" y="58" class="font-sans" font-size="13" font-weight="700" fill="#39ff14">Generative AI</text>
-        <text x="20" y="78" class="font-sans" font-size="11" fill="#cbd5e1">• GAN Models<br/>• Diffusion Pipelines<br/>• Prompt Engineering</text>
+        <rect width="180" height="125" rx="12" fill="#1e293b" fill-opacity="0.7" stroke="#39ff14"/>
+        <text x="20" y="30" class="font-sans" font-size="20">⚡</text>
+        <text x="20" y="54" class="font-sans" font-size="13" font-weight="700" fill="#39ff14">Generative AI</text>
+        <text x="20" y="74" class="font-sans" font-size="11" fill="#cbd5e1">
+          <tspan x="20" dy="0">• GAN Models</tspan>
+          <tspan x="20" dy="16">• Diffusion Pipelines</tspan>
+          <tspan x="20" dy="16">• Prompt Engineering</tspan>
+        </text>
       </g>
 
       <g transform="translate(594, 0)">
-        <rect width="180" height="120" rx="12" fill="#1e293b" fill-opacity="0.7" stroke="#ff9900"/>
-        <text x="20" y="32" class="font-sans" font-size="20">🚀</text>
-        <text x="20" y="58" class="font-sans" font-size="13" font-weight="700" fill="#ff9900">Apache Spark</text>
-        <text x="20" y="78" class="font-sans" font-size="11" fill="#cbd5e1">• Big Data Engineering<br/>• Distributed Pipelines<br/>• Real-time Analytics</text>
+        <rect width="180" height="125" rx="12" fill="#1e293b" fill-opacity="0.7" stroke="#ff9900"/>
+        <text x="20" y="30" class="font-sans" font-size="20">🚀</text>
+        <text x="20" y="54" class="font-sans" font-size="13" font-weight="700" fill="#ff9900">Apache Spark</text>
+        <text x="20" y="74" class="font-sans" font-size="11" fill="#cbd5e1">
+          <tspan x="20" dy="0">• Big Data Analytics</tspan>
+          <tspan x="20" dy="16">• PySpark Pipelines</tspan>
+          <tspan x="20" dy="16">• Real-time Streams</tspan>
+        </text>
       </g>
     </g>
   </g>
