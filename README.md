@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/05-featured-projects.svg?v=2" alt="🚀 Featured Projects" width="100%" />
+  <img src="./assets/05-featured-projects.svg?v=3" alt="🚀 Featured Projects" width="100%" />
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@
 | Project Title | Description | Tech Stack | Quick Links |
 | :--- | :--- | :--- | :---: |
 | 📌 **Thiranex Data Science Portal** | Interactive 4-in-1 Data Science & ML platform with churn AI ROI simulator. | `Python` `Streamlit` `Scikit-Learn` `Pandas` | [🌐 **Live App**](https://thiranex-internship-njtpmctjcmcphu6hywitxa.streamlit.app/) • [📂 **GitHub**](https://github.com/thesubhankar/thiranex-internship) |
-| 📌 **IncodeVision Data Suite** | Automated data cleaning studio & statistical EDA dashboard suite. | `Python` `Streamlit` `Pandas` `Plotly` | [🧹 **Task 1**](https://incodevision-task-1-datacleaningstudio.streamlit.app) • [📊 **Task 2**](https://incodevision-task-2-eda-dashboad.streamlit.app) |
+| 📌 **IncodeVision Data Suite** | Automated data cleaning studio & statistical EDA dashboard suite. | `Python` `Streamlit` `Pandas` `Plotly` | [🧹 **Task 1**](https://incodevision-task-1-datacleaningstudio.streamlit.app/) • [📊 **Task 2**](https://incodevision-task-2-eda-dashboad.streamlit.app/) |
 | 📌 **Student Management System** | Desktop student database management application with full CRUD operations. | `Python` `Tkinter` `MySQL` `SQLite` | [📂 **GitHub**](https://github.com/thesubhankar/student-managment-system) |
 | 📌 **Netflix Data Analysis** | Exploratory Data Analysis & visual trend distributions on Netflix catalog. | `Python` `Pandas` `Matplotlib` `Seaborn` | [📂 **GitHub**](https://github.com/thesubhankar/python-questions-solve) |
 
