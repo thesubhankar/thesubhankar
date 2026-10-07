@@ -37,25 +37,25 @@
 
 <!-- GITHUB STATS HEADER SVG -->
 <p align="center">
-  <img src="./assets/08-github-stats.svg?v=20" alt="📊 GitHub Statistics" width="100%" />
+  <img src="./assets/08-github-stats.svg?v=20261007_01" alt="📊 GitHub Statistics" width="100%" />
 </p>
 <!-- DYNAMIC LIVE GITHUB STATS CARDS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thesubhankar&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" width="49%" height="195" alt="Subhankar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thesubhankar&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%" height="195" alt="Subhankar's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesubhankar&theme=tokyonight&layout=donut&card_width=467" width="49%" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesubhankar&theme=tokyonight&layout=donut&card_width=467&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%" height="195" alt="Top Languages" />
 </p>
 
 <!-- GITHUB STREAK HEADER SVG -->
 <p align="center">
-  <img src="./assets/09-github-streak.svg?v=22" alt="🔥 GitHub Contribution Streak &amp; Activity Graph" width="100%" />
+  <img src="./assets/09-github-streak.svg?v=20261007_01" alt="🔥 GitHub Contribution Streak &amp; Activity Graph" width="100%" />
 </p>
 <!-- DYNAMIC LIVE GITHUB STREAK & EXACT LINE-GRAPH ACTIVITY CHART MATCHING USER PHOTO -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thesubhankar&theme=tokyonight" width="100%" alt="Subhankar's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=thesubhankar&theme=tokyonight&cache_seconds=1800" width="100%" alt="Subhankar's GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=thesubhankar&theme=tokyo-night" width="100%" alt="Subhankar's Activity Graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=thesubhankar&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Subhankar's Activity Graph" />
 </p>
 
 <p align="center">
