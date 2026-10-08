@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/04-currently-learning.svg?v=20" alt="🧠 Currently Learning" width="100%" />
+  <img src="https://raw.githubusercontent.com/thesubhankar/thesubhankar/main/assets/04-currently-learning.svg?v=20261008_03_top_headings" alt="🧠 Currently Learning" width="100%" />
 </p>
 
 <p align="center">
