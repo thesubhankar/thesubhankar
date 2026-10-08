@@ -1,10 +1,10 @@
 <!-- 12 DEDICATED SVG SECTIONS -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thesubhankar/thesubhankar/main/assets/01-hero-intro.svg?v=20261008_01" alt="👋 Hi, I'm Subhankar Giri" width="100%" />
+  <img src="https://raw.githubusercontent.com/thesubhankar/thesubhankar/main/assets/01-hero-intro.svg?v=20261008_02_ds_engineer" alt="👋 Hi, I'm Subhankar Giri" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/02-about-me.svg?v=20" alt="🎯 About Me" width="100%" />
+  <img src="https://raw.githubusercontent.com/thesubhankar/thesubhankar/main/assets/02-about-me.svg?v=20261008_02_ds_engineer" alt="🎯 About Me" width="100%" />
 </p>
 
 <p align="center">
