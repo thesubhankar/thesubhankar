@@ -1,6 +1,6 @@
 <!-- 12 DEDICATED SVG SECTIONS -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thesubhankar/thesubhankar/main/assets/01-hero-intro.svg?v=20261007_04" alt="👋 Hi, I'm Subhankar Giri" width="100%" />
+  <img src="https://raw.githubusercontent.com/thesubhankar/thesubhankar/main/assets/01-hero-intro.svg?v=20261008_01" alt="👋 Hi, I'm Subhankar Giri" width="100%" />
 </p>
 
 <p align="center">
