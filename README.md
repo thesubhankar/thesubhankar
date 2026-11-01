@@ -41,9 +41,9 @@
 </p>
 <!-- DYNAMIC LIVE GITHUB STATS CARDS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thesubhankar&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%" height="195" alt="Subhankar's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=thesubhankar&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" width="49%" height="195" alt="Subhankar's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesubhankar&theme=tokyonight&layout=donut&card_width=467&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%" height="195" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thesubhankar&theme=tokyonight&layout=donut&card_width=467&count_private=true&include_all_commits=true" width="49%" height="195" alt="Top Languages" />
 </p>
 
 <!-- GITHUB STREAK HEADER SVG -->
